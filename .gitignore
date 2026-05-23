@@ -5,6 +5,9 @@ secrets/
 service-account*.json
 google-service-account*.json
 # === FIN SECURITE === 
+# === Backups et CSV locaux ===
+*.csv
+backup_*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
