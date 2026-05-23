@@ -1,3 +1,10 @@
+# === SECURITE MAKAN MOOD ===
+.env
+.env.local
+secrets/
+service-account*.json
+google-service-account*.json
+# === FIN SECURITE === 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
