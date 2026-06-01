@@ -1,0 +1,1085 @@
+{
+  "generated_at": "2026-06-01T18:03:30.057929+00:00",
+  "schema_version": 1,
+  "brand": "Makan Mood",
+  "account": {
+    "username": "makanmoodjournal",
+    "name": "Makan Mood",
+    "biography": "Food • Business • Culture • Lifestyle\nExplorer. Comprendre. Construire.\n↓ Découvrir le Maroc autrement",
+    "website": "http://www.tiktok.com/@makanmoodjournal",
+    "followers": 47,
+    "follows": 47,
+    "media": 15,
+    "followers_delta_week": 3,
+    "follows_delta_week": 1,
+    "media_delta_week": 6,
+    "history": [
+      {
+        "date": "2026-05-23",
+        "followers": 44,
+        "follows": 44,
+        "media": 7
+      },
+      {
+        "date": "2026-05-24",
+        "followers": 43,
+        "follows": 45,
+        "media": 8
+      },
+      {
+        "date": "2026-05-25",
+        "followers": 44,
+        "follows": 46,
+        "media": 9
+      },
+      {
+        "date": "2026-05-26",
+        "followers": 44,
+        "follows": 46,
+        "media": 10
+      },
+      {
+        "date": "2026-05-27",
+        "followers": 44,
+        "follows": 47,
+        "media": 12
+      },
+      {
+        "date": "2026-05-28",
+        "followers": 44,
+        "follows": 47,
+        "media": 13
+      },
+      {
+        "date": "2026-05-29",
+        "followers": 45,
+        "follows": 47,
+        "media": 14
+      },
+      {
+        "date": "2026-05-30",
+        "followers": 46,
+        "follows": 47,
+        "media": 15
+      },
+      {
+        "date": "2026-05-31",
+        "followers": 47,
+        "follows": 47,
+        "media": 15
+      },
+      {
+        "date": "2026-06-01",
+        "followers": 47,
+        "follows": 47,
+        "media": 15
+      }
+    ],
+    "snapshots_count": 22
+  },
+  "posts_section": {
+    "posts": [
+      {
+        "media_id": "18004173839868471",
+        "type": "REELS",
+        "published_at": "2026-05-31T18:30:08+0000",
+        "caption": "Tasty Crousty…\n\nOn n’a toujours pas goûté le poulet. 🍗\n\nPar contre l’affiche, on la connaît par cœur. 😭\n\nVous pensez que ça ouvre quand ? 👀\n\n#Rabat #RabatFood #TastyCrousty #MakanMood #MoroccoFood",
+        "permalink": "https://www.instagram.com/reel/DZA17t_Ny7V/",
+        "hashtags": [
+          "#Rabat",
+          "#RabatFood",
+          "#TastyCrousty",
+          "#MakanMood",
+          "#MoroccoFood"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 154,
+        "views": 227,
+        "likes": 5,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 7
+      },
+      {
+        "media_id": "18056629817721687",
+        "type": "REELS",
+        "published_at": "2026-05-30T17:43:39+0000",
+        "caption": "Un bon Aïd El Adha hamdoulilah cette année 🐑❤️🤲\n\n#AidElAdha #EidMubarak #Maroc #Morocco #Fyp",
+        "permalink": "https://www.instagram.com/reel/DY-LrzGILW_/",
+        "hashtags": [
+          "#AidElAdha",
+          "#EidMubarak",
+          "#Maroc",
+          "#Morocco",
+          "#Fyp"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 12,
+        "views": 23,
+        "likes": 2,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2
+      },
+      {
+        "media_id": "18174822859409897",
+        "type": "REELS",
+        "published_at": "2026-05-29T16:33:24+0000",
+        "caption": "Ce n’est que partie remise 🇲🇦🔥 CDM 2026.\n\n#Maroc #DimaMaghrib #Morocco #CDM2026 #FiersDuMaroc",
+        "permalink": "https://www.instagram.com/reel/DY7eyNToORT/",
+        "hashtags": [
+          "#Maroc",
+          "#DimaMaghrib",
+          "#Morocco",
+          "#CDM2026",
+          "#FiersDuMaroc"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 182,
+        "views": 215,
+        "likes": 3,
+        "comments": 0,
+        "saved": 1,
+        "shares": 1,
+        "total_interactions": 7
+      },
+      {
+        "media_id": "18110560468921979",
+        "type": "REELS",
+        "published_at": "2026-05-28T19:47:28+0000",
+        "caption": "Ah Panda c’était trop bien 😭🍣🎶\nL’ambiance là-bas >>>> 👀🔥\n\nVous y êtes déjà allés ? 👀\n\n#Rabat #Sushi #Restaurant #RabatFood #Morocco @pandarabat",
+        "permalink": "https://www.instagram.com/reel/DY5QSBmoyA7/",
+        "hashtags": [
+          "#Rabat",
+          "#Sushi",
+          "#Restaurant",
+          "#RabatFood",
+          "#Morocco"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 1,
+        "reach": 239,
+        "views": 309,
+        "likes": 4,
+        "comments": 0,
+        "saved": 1,
+        "shares": 1,
+        "total_interactions": 8
+      },
+      {
+        "media_id": "18593285080036709",
+        "type": "REELS",
+        "published_at": "2026-05-27T16:00:17+0000",
+        "caption": "Eid mabrouk 🐏🇲🇦🥳 #Aid #EidAlAdha #Maroc #AidMubarak #Morocco",
+        "permalink": "https://www.instagram.com/reel/DY2RflONwRK/",
+        "hashtags": [
+          "#Aid",
+          "#EidAlAdha",
+          "#Maroc",
+          "#AidMubarak",
+          "#Morocco"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 283,
+        "views": 417,
+        "likes": 10,
+        "comments": 0,
+        "saved": 0,
+        "shares": 1,
+        "total_interactions": 14
+      },
+      {
+        "media_id": "18105897725314339",
+        "type": "REELS",
+        "published_at": "2026-05-27T11:30:27+0000",
+        "caption": "Dites Amine la ! Et followez, ça va m’aider ! 🐏🥳 #AidKebir #AidMubarak #Eid2026 #Maroc #Morocco",
+        "permalink": "https://www.instagram.com/reel/DY1yorQtzjo/",
+        "hashtags": [
+          "#AidKebir",
+          "#AidMubarak",
+          "#Eid2026",
+          "#Maroc",
+          "#Morocco"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 600,
+        "views": 712,
+        "likes": 16,
+        "comments": 0,
+        "saved": 2,
+        "shares": 0,
+        "total_interactions": 22
+      },
+      {
+        "media_id": "18099511235110622",
+        "type": "REELS",
+        "published_at": "2026-05-26T18:00:08+0000",
+        "caption": "Tkt y’a toujours la solution ici !!! 🇲🇦😭😭 #AidMubarak #EidVibes #France #VieDeFamille #PourToi",
+        "permalink": "https://www.instagram.com/reel/DYz6hweN-wz/",
+        "hashtags": [
+          "#AidMubarak",
+          "#EidVibes",
+          "#France",
+          "#VieDeFamille",
+          "#PourToi"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 233,
+        "views": 303,
+        "likes": 9,
+        "comments": 0,
+        "saved": 2,
+        "shares": 2,
+        "total_interactions": 15
+      },
+      {
+        "media_id": "17948331779997156",
+        "type": "REELS",
+        "published_at": "2026-05-25T19:40:11+0000",
+        "caption": "Le Maroc tout vert après la sécheresse. Ça fait du bien à voir ?🌿🇲🇦🇲🇦\n\n#Maroc #Nature #Paysage #Voyage",
+        "permalink": "https://www.instagram.com/reel/DYxhFcttaAm/",
+        "hashtags": [
+          "#Maroc",
+          "#Nature",
+          "#Paysage",
+          "#Voyage"
+        ],
+        "hashtag_count": 4,
+        "mention_count": 0,
+        "reach": 209,
+        "views": 262,
+        "likes": 20,
+        "comments": 0,
+        "saved": 0,
+        "shares": 1,
+        "total_interactions": 24
+      },
+      {
+        "media_id": "18005071769915430",
+        "type": "REELS",
+        "published_at": "2026-05-24T19:30:09+0000",
+        "caption": "Sans la mousse c’est juste de l’eau chaude!!😭🇲🇦🇲🇦 #Atay #Morocco #MarocainsDuMonde #Darija #ReelsFrance",
+        "permalink": "https://www.instagram.com/reel/DYu7JmPNzeW/",
+        "hashtags": [
+          "#Atay",
+          "#Morocco",
+          "#MarocainsDuMonde",
+          "#Darija",
+          "#ReelsFrance"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 137,
+        "views": 189,
+        "likes": 9,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 10
+      },
+      {
+        "media_id": "18099292315895012",
+        "type": "REELS",
+        "published_at": "2026-05-23T19:30:10+0000",
+        "caption": "Première fois au golf 😭⛳️\net franchement c’est super cool à voir 👀🇲🇦\npar contre… on a marché de fou 🚶‍♂️😭\nVous êtes déjà allés voir du golf vous ? 👀\n\n#Rabat #Golf #Morocco #TropheeHassanII #MakanMood",
+        "permalink": "https://www.instagram.com/reel/DYsWWONNOd9/",
+        "hashtags": [
+          "#Rabat",
+          "#Golf",
+          "#Morocco",
+          "#TropheeHassanII",
+          "#MakanMood"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 260,
+        "views": 347,
+        "likes": 12,
+        "comments": 0,
+        "saved": 1,
+        "shares": 1,
+        "total_interactions": 18
+      },
+      {
+        "media_id": "18084907022092283",
+        "type": "REELS",
+        "published_at": "2026-05-21T18:55:00+0000",
+        "caption": "Bientôt l’Aïd 🐑✨ Vous êtes impatient ? 👀💚 Dites-moi en commentaire ! 👇 #AïdAlAdha #AïdMoubarak #Maroc #MarketPlace #BeforeEid Impatience FamilyTime 🌙💚✨🐑😂",
+        "permalink": "https://www.instagram.com/reel/DYnI1sDNPzz/",
+        "hashtags": [
+          "#AïdAlAdha",
+          "#AïdMoubarak",
+          "#Maroc",
+          "#MarketPlace",
+          "#BeforeEid"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 1320,
+        "views": 1609,
+        "likes": 45,
+        "comments": 0,
+        "saved": 0,
+        "shares": 6,
+        "total_interactions": 58
+      },
+      {
+        "media_id": "17922792477345910",
+        "type": "REELS",
+        "published_at": "2026-05-19T18:00:00+0000",
+        "caption": "Vous allez jamais croire ce qu’on a trouvé à Salé 🤯\n\nGravure sur bois ANCESTRALE + marqueterie 🪵✨\n\nC’est ça le vrai Maroc 🇲🇦👑\n\n.\n.\n.\n#PatrimoineSalé #ArtisanatMaroc #RabatSalé #MoroccanCulture #MakanMood TraditionalCraft SaléVibe ViralMaroc InstagramReels",
+        "permalink": "https://www.instagram.com/reel/DYh47hQNHSY/",
+        "hashtags": [
+          "#PatrimoineSalé",
+          "#ArtisanatMaroc",
+          "#RabatSalé",
+          "#MoroccanCulture",
+          "#MakanMood"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 389,
+        "views": 504,
+        "likes": 20,
+        "comments": 0,
+        "saved": 2,
+        "shares": 4,
+        "total_interactions": 37
+      },
+      {
+        "media_id": "18087731795374236",
+        "type": "REELS",
+        "published_at": "2026-05-17T18:00:00+0000",
+        "caption": "Mosquée Lalla Soukaïna 🕌✨\n\nLe Roi Hassan II a construit cette mosquée en 1989 pour sa petite-fille Soukaïna. Avec les meilleurs artisans du Royaume et les matériaux les plus fins.\n\nPeut-être la plus belle mosquée de Rabat. 💛\n\n#MakanMood #Rabat #LallaSoukaina #Architecture #Maroc",
+        "permalink": "https://www.instagram.com/reel/DYcvWGqtDG2/",
+        "hashtags": [
+          "#MakanMood",
+          "#Rabat",
+          "#LallaSoukaina",
+          "#Architecture",
+          "#Maroc"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 159,
+        "views": 197,
+        "likes": 7,
+        "comments": 0,
+        "saved": 1,
+        "shares": 0,
+        "total_interactions": 13
+      },
+      {
+        "media_id": "17865833856624453",
+        "type": "REELS",
+        "published_at": "2026-05-15T17:00:00+0000",
+        "caption": "on devait juste filmer 😭\n\nFinalement on est tombé sur l’ambiance street food marocaine de Ajikoul à Arribat Center… et Rabat a encore décidé de nous donner faim.\n\n#Rabat #Morocco #MoroccoLife #RabatLife #StreetFood FoodieMaroc Ajikoul ArribatCenter MoroccanFood RabatFood MakanMood",
+        "permalink": "https://www.instagram.com/reel/DYXe2_ANLH6/",
+        "hashtags": [
+          "#Rabat",
+          "#Morocco",
+          "#MoroccoLife",
+          "#RabatLife",
+          "#StreetFood"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 257,
+        "views": 398,
+        "likes": 17,
+        "comments": 0,
+        "saved": 0,
+        "shares": 2,
+        "total_interactions": 28
+      },
+      {
+        "media_id": "18170316739412330",
+        "type": "REELS",
+        "published_at": "2026-05-13T19:15:33+0000",
+        "caption": "Rabat, au 30e étage.\n\nUne soirée à la Tour Mohammed VI, entre coucher de soleil, architecture moderne et vue incroyable sur Rabat et Salé.\n\n📍Peacock Alley — Tour Mohammed VI\n\n#Rabat #Morocco #RabatMorocco #VisitRabat #MoroccoTravel LuxuryLifestyle MakanMood RabatByNight MoroccanArchitecture SunsetViews",
+        "permalink": "https://www.instagram.com/reel/DYSkOIYoW44/",
+        "hashtags": [
+          "#Rabat",
+          "#Morocco",
+          "#RabatMorocco",
+          "#VisitRabat",
+          "#MoroccoTravel"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 398,
+        "views": 574,
+        "likes": 20,
+        "comments": 0,
+        "saved": 3,
+        "shares": 6,
+        "total_interactions": 40
+      },
+      {
+        "media_id": "18145250533497950",
+        "type": "FEED",
+        "published_at": "2026-04-27T16:42:42+0000",
+        "caption": "Rabat mérite mieux.\n\nPas juste des étoiles.\nPas juste des tendances.\nPas juste du bruit.\n\nMakan Mood observe, analyse et raconte les lieux qui ont une vraie âme.\nAmbiance. Vision. Concept. Business.\n\nParce qu’un bon endroit ne se résume pas à une note Google.\n\nEt vous…\nQuel lieu à Rabat mérite vraiment qu’on en parle ? 👀\n\n⬇️ Dites-le en commentaire\n\n#MakanMood #Rabat #RabatFood #MoroccoEats #HiddenGemsRabat",
+        "permalink": "https://www.instagram.com/p/DXpGiC2iCDD/",
+        "hashtags": [
+          "#MakanMood",
+          "#Rabat",
+          "#RabatFood",
+          "#MoroccoEats",
+          "#HiddenGemsRabat"
+        ],
+        "hashtag_count": 5,
+        "mention_count": 0,
+        "reach": 90,
+        "views": 0,
+        "likes": 15,
+        "comments": 0,
+        "saved": 0,
+        "shares": 2,
+        "total_interactions": 25
+      }
+    ],
+    "totals": {
+      "count": 16,
+      "reach_total": 4922,
+      "views_total": 6286,
+      "likes_total": 214,
+      "comments_total": 0,
+      "saves_total": 13,
+      "shares_total": 27
+    },
+    "top_by_views": [
+      "18084907022092283",
+      "18105897725314339",
+      "18170316739412330",
+      "17922792477345910",
+      "18593285080036709"
+    ],
+    "top_by_engagement": [
+      "18084907022092283",
+      "18170316739412330",
+      "17922792477345910",
+      "18105897725314339",
+      "17948331779997156"
+    ]
+  },
+  "hashtags_section": {
+    "hashtags": [
+      {
+        "hashtag": "#AïdAlAdha",
+        "uses": 1,
+        "avg_reach": 1320,
+        "avg_views": 1609,
+        "avg_likes": 45
+      },
+      {
+        "hashtag": "#AïdMoubarak",
+        "uses": 1,
+        "avg_reach": 1320,
+        "avg_views": 1609,
+        "avg_likes": 45
+      },
+      {
+        "hashtag": "#MarketPlace",
+        "uses": 1,
+        "avg_reach": 1320,
+        "avg_views": 1609,
+        "avg_likes": 45
+      },
+      {
+        "hashtag": "#BeforeEid",
+        "uses": 1,
+        "avg_reach": 1320,
+        "avg_views": 1609,
+        "avg_likes": 45
+      },
+      {
+        "hashtag": "#AidKebir",
+        "uses": 1,
+        "avg_reach": 600,
+        "avg_views": 712,
+        "avg_likes": 16
+      },
+      {
+        "hashtag": "#Eid2026",
+        "uses": 1,
+        "avg_reach": 600,
+        "avg_views": 712,
+        "avg_likes": 16
+      },
+      {
+        "hashtag": "#RabatMorocco",
+        "uses": 1,
+        "avg_reach": 398,
+        "avg_views": 574,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#VisitRabat",
+        "uses": 1,
+        "avg_reach": 398,
+        "avg_views": 574,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#MoroccoTravel",
+        "uses": 1,
+        "avg_reach": 398,
+        "avg_views": 574,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#Maroc",
+        "uses": 6,
+        "avg_reach": 459,
+        "avg_views": 569,
+        "avg_likes": 17
+      },
+      {
+        "hashtag": "#PatrimoineSalé",
+        "uses": 1,
+        "avg_reach": 389,
+        "avg_views": 504,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#ArtisanatMaroc",
+        "uses": 1,
+        "avg_reach": 389,
+        "avg_views": 504,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#RabatSalé",
+        "uses": 1,
+        "avg_reach": 389,
+        "avg_views": 504,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#MoroccanCulture",
+        "uses": 1,
+        "avg_reach": 389,
+        "avg_views": 504,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#AidMubarak",
+        "uses": 3,
+        "avg_reach": 372,
+        "avg_views": 477,
+        "avg_likes": 12
+      },
+      {
+        "hashtag": "#Aid",
+        "uses": 1,
+        "avg_reach": 283,
+        "avg_views": 417,
+        "avg_likes": 10
+      },
+      {
+        "hashtag": "#EidAlAdha",
+        "uses": 1,
+        "avg_reach": 283,
+        "avg_views": 417,
+        "avg_likes": 10
+      },
+      {
+        "hashtag": "#MoroccoLife",
+        "uses": 1,
+        "avg_reach": 257,
+        "avg_views": 398,
+        "avg_likes": 17
+      },
+      {
+        "hashtag": "#RabatLife",
+        "uses": 1,
+        "avg_reach": 257,
+        "avg_views": 398,
+        "avg_likes": 17
+      },
+      {
+        "hashtag": "#StreetFood",
+        "uses": 1,
+        "avg_reach": 257,
+        "avg_views": 398,
+        "avg_likes": 17
+      },
+      {
+        "hashtag": "#Morocco",
+        "uses": 8,
+        "avg_reach": 294,
+        "avg_views": 395,
+        "avg_likes": 11
+      },
+      {
+        "hashtag": "#Golf",
+        "uses": 1,
+        "avg_reach": 260,
+        "avg_views": 347,
+        "avg_likes": 12
+      },
+      {
+        "hashtag": "#TropheeHassanII",
+        "uses": 1,
+        "avg_reach": 260,
+        "avg_views": 347,
+        "avg_likes": 12
+      },
+      {
+        "hashtag": "#Sushi",
+        "uses": 1,
+        "avg_reach": 239,
+        "avg_views": 309,
+        "avg_likes": 4
+      },
+      {
+        "hashtag": "#Restaurant",
+        "uses": 1,
+        "avg_reach": 239,
+        "avg_views": 309,
+        "avg_likes": 4
+      },
+      {
+        "hashtag": "#EidVibes",
+        "uses": 1,
+        "avg_reach": 233,
+        "avg_views": 303,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#France",
+        "uses": 1,
+        "avg_reach": 233,
+        "avg_views": 303,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#VieDeFamille",
+        "uses": 1,
+        "avg_reach": 233,
+        "avg_views": 303,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#PourToi",
+        "uses": 1,
+        "avg_reach": 233,
+        "avg_views": 303,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#Rabat",
+        "uses": 7,
+        "avg_reach": 222,
+        "avg_views": 293,
+        "avg_likes": 11
+      },
+      {
+        "hashtag": "#Nature",
+        "uses": 1,
+        "avg_reach": 209,
+        "avg_views": 262,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#Paysage",
+        "uses": 1,
+        "avg_reach": 209,
+        "avg_views": 262,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#Voyage",
+        "uses": 1,
+        "avg_reach": 209,
+        "avg_views": 262,
+        "avg_likes": 20
+      },
+      {
+        "hashtag": "#MakanMood",
+        "uses": 5,
+        "avg_reach": 210,
+        "avg_views": 255,
+        "avg_likes": 12
+      },
+      {
+        "hashtag": "#TastyCrousty",
+        "uses": 1,
+        "avg_reach": 154,
+        "avg_views": 227,
+        "avg_likes": 5
+      },
+      {
+        "hashtag": "#MoroccoFood",
+        "uses": 1,
+        "avg_reach": 154,
+        "avg_views": 227,
+        "avg_likes": 5
+      },
+      {
+        "hashtag": "#DimaMaghrib",
+        "uses": 1,
+        "avg_reach": 182,
+        "avg_views": 215,
+        "avg_likes": 3
+      },
+      {
+        "hashtag": "#CDM2026",
+        "uses": 1,
+        "avg_reach": 182,
+        "avg_views": 215,
+        "avg_likes": 3
+      },
+      {
+        "hashtag": "#FiersDuMaroc",
+        "uses": 1,
+        "avg_reach": 182,
+        "avg_views": 215,
+        "avg_likes": 3
+      },
+      {
+        "hashtag": "#LallaSoukaina",
+        "uses": 1,
+        "avg_reach": 159,
+        "avg_views": 197,
+        "avg_likes": 7
+      },
+      {
+        "hashtag": "#Architecture",
+        "uses": 1,
+        "avg_reach": 159,
+        "avg_views": 197,
+        "avg_likes": 7
+      },
+      {
+        "hashtag": "#Atay",
+        "uses": 1,
+        "avg_reach": 137,
+        "avg_views": 189,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#MarocainsDuMonde",
+        "uses": 1,
+        "avg_reach": 137,
+        "avg_views": 189,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#Darija",
+        "uses": 1,
+        "avg_reach": 137,
+        "avg_views": 189,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#ReelsFrance",
+        "uses": 1,
+        "avg_reach": 137,
+        "avg_views": 189,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#RabatFood",
+        "uses": 3,
+        "avg_reach": 161,
+        "avg_views": 179,
+        "avg_likes": 8
+      },
+      {
+        "hashtag": "#AidElAdha",
+        "uses": 1,
+        "avg_reach": 12,
+        "avg_views": 23,
+        "avg_likes": 2
+      },
+      {
+        "hashtag": "#EidMubarak",
+        "uses": 1,
+        "avg_reach": 12,
+        "avg_views": 23,
+        "avg_likes": 2
+      },
+      {
+        "hashtag": "#Fyp",
+        "uses": 1,
+        "avg_reach": 12,
+        "avg_views": 23,
+        "avg_likes": 2
+      },
+      {
+        "hashtag": "#MoroccoEats",
+        "uses": 1,
+        "avg_reach": 90,
+        "avg_views": 0,
+        "avg_likes": 15
+      },
+      {
+        "hashtag": "#HiddenGemsRabat",
+        "uses": 1,
+        "avg_reach": 90,
+        "avg_views": 0,
+        "avg_likes": 15
+      }
+    ]
+  },
+  "stories_section": {
+    "stories": [
+      {
+        "story_id": "18074333636669861",
+        "type": "VIDEO",
+        "published_at": "2026-06-01T10:57:04+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3909858129466651168",
+        "reach": 12,
+        "views": 15,
+        "replies": 0,
+        "total_interactions": 3
+      },
+      {
+        "story_id": "18142629226509453",
+        "type": "VIDEO",
+        "published_at": "2026-05-31T18:41:48+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3909367207373065823",
+        "reach": 14,
+        "views": 24,
+        "replies": 0,
+        "total_interactions": 1
+      },
+      {
+        "story_id": "18169821307424166",
+        "type": "VIDEO",
+        "published_at": "2026-05-31T18:10:54+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3909351672853859625",
+        "reach": 16,
+        "views": 23,
+        "replies": 0,
+        "total_interactions": 1
+      },
+      {
+        "story_id": "18590722777042013",
+        "type": "VIDEO",
+        "published_at": "2026-05-30T19:02:45+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3908652985970355199",
+        "reach": 13,
+        "views": 16,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18098448410332486",
+        "type": "VIDEO",
+        "published_at": "2026-05-30T17:44:16+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3908613479065990705",
+        "reach": 9,
+        "views": 11,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18096385591919897",
+        "type": "IMAGE",
+        "published_at": "2026-05-30T16:53:41+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3908588012679729758",
+        "reach": 28,
+        "views": 37,
+        "replies": 1,
+        "total_interactions": 3
+      },
+      {
+        "story_id": "17883814971576962",
+        "type": "IMAGE",
+        "published_at": "2026-05-30T14:27:13+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3908514291612925343",
+        "reach": 21,
+        "views": 23,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18098758130519249",
+        "type": "VIDEO",
+        "published_at": "2026-05-29T16:34:51+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3907854449435539146",
+        "reach": 18,
+        "views": 19,
+        "replies": 0,
+        "total_interactions": 0
+      },
+      {
+        "story_id": "18011142095717826",
+        "type": "VIDEO",
+        "published_at": "2026-05-29T12:48:37+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3907739899369359945",
+        "reach": 17,
+        "views": 18,
+        "replies": 0,
+        "total_interactions": 5
+      },
+      {
+        "story_id": "18104751206067387",
+        "type": "VIDEO",
+        "published_at": "2026-05-28T20:23:01+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3907243842281672168",
+        "reach": 11,
+        "views": 12,
+        "replies": 0,
+        "total_interactions": 1
+      },
+      {
+        "story_id": "18063341645704924",
+        "type": "VIDEO",
+        "published_at": "2026-05-28T19:48:02+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3907226215400377337",
+        "reach": 11,
+        "views": 12,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18129635254607255",
+        "type": "VIDEO",
+        "published_at": "2026-05-27T16:02:59+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3906388175291452796",
+        "reach": 10,
+        "views": 12,
+        "replies": 0,
+        "total_interactions": 1
+      },
+      {
+        "story_id": "18105394453969144",
+        "type": "VIDEO",
+        "published_at": "2026-05-27T11:37:08+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3906254435160441217",
+        "reach": 7,
+        "views": 12,
+        "replies": 0,
+        "total_interactions": 1
+      },
+      {
+        "story_id": "18098190344143234",
+        "type": "VIDEO",
+        "published_at": "2026-05-27T07:26:47+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3906128357897076043",
+        "reach": 12,
+        "views": 17,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18358760179233148",
+        "type": "VIDEO",
+        "published_at": "2026-05-26T10:35:13+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3905498435360968417",
+        "reach": 13,
+        "views": 15,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18113167303665373",
+        "type": "VIDEO",
+        "published_at": "2026-05-25T20:59:01+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3905087641016135117",
+        "reach": 17,
+        "views": 20,
+        "replies": 0,
+        "total_interactions": 0
+      },
+      {
+        "story_id": "17882004780580521",
+        "type": "VIDEO",
+        "published_at": "2026-05-25T20:57:51+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3905087028010177574",
+        "reach": 17,
+        "views": 24,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18461736085109859",
+        "type": "VIDEO",
+        "published_at": "2026-05-25T10:41:36+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3904776874748316239",
+        "reach": 17,
+        "views": 21,
+        "replies": 1,
+        "total_interactions": 3
+      },
+      {
+        "story_id": "18019932113674339",
+        "type": "VIDEO",
+        "published_at": "2026-05-25T09:45:29+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3904748616707228763",
+        "reach": 19,
+        "views": 25,
+        "replies": 0,
+        "total_interactions": 1
+      },
+      {
+        "story_id": "18420409792134274",
+        "type": "VIDEO",
+        "published_at": "2026-05-24T20:45:51+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3904356248006967333",
+        "reach": 15,
+        "views": 21,
+        "replies": 0,
+        "total_interactions": 0
+      },
+      {
+        "story_id": "18010159778858430",
+        "type": "VIDEO",
+        "published_at": "2026-05-24T20:44:48+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3904355690474940529",
+        "reach": 446,
+        "views": 599,
+        "replies": 0,
+        "total_interactions": 2
+      },
+      {
+        "story_id": "18064855157702126",
+        "type": "VIDEO",
+        "published_at": "2026-05-23T19:50:20+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3903603522155345497",
+        "reach": 17,
+        "views": 20,
+        "replies": 0,
+        "total_interactions": 3
+      },
+      {
+        "story_id": "18102294326010262",
+        "type": "VIDEO",
+        "published_at": "2026-05-23T19:20:50+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3903588669218889745",
+        "reach": 21,
+        "views": 34,
+        "replies": 0,
+        "total_interactions": 4
+      },
+      {
+        "story_id": "18114450448869071",
+        "type": "VIDEO",
+        "published_at": "2026-05-23T17:44:52+0000",
+        "permalink": "https://www.instagram.com/stories/makanmoodjournal/3903540361230289655",
+        "reach": 23,
+        "views": 30,
+        "replies": 0,
+        "total_interactions": 2
+      }
+    ],
+    "totals": {
+      "count": 24,
+      "reach_total": 804,
+      "views_total": 1060,
+      "replies_total": 2
+    }
+  }
+}
