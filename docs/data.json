@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T18:03:30.057929+00:00",
+  "generated_at": "2026-06-01T19:29:36.866515+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -75,7 +75,7 @@
         "media": 15
       }
     ],
-    "snapshots_count": 22
+    "snapshots_count": 23
   },
   "posts_section": {
     "posts": [
@@ -94,13 +94,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 154,
-        "views": 227,
-        "likes": 5,
+        "reach": 156,
+        "views": 233,
+        "likes": 6,
         "comments": 0,
         "saved": 0,
         "shares": 0,
-        "total_interactions": 7
+        "total_interactions": 8
       },
       {
         "media_id": "18056629817721687",
@@ -449,9 +449,9 @@
     ],
     "totals": {
       "count": 16,
-      "reach_total": 4922,
-      "views_total": 6286,
-      "likes_total": 214,
+      "reach_total": 4924,
+      "views_total": 6292,
+      "likes_total": 215,
       "comments_total": 0,
       "saves_total": 13,
       "shares_total": 27
@@ -679,9 +679,9 @@
       {
         "hashtag": "#Rabat",
         "uses": 7,
-        "avg_reach": 222,
-        "avg_views": 293,
-        "avg_likes": 11
+        "avg_reach": 223,
+        "avg_views": 294,
+        "avg_likes": 12
       },
       {
         "hashtag": "#Nature",
@@ -707,23 +707,23 @@
       {
         "hashtag": "#MakanMood",
         "uses": 5,
-        "avg_reach": 210,
-        "avg_views": 255,
+        "avg_reach": 211,
+        "avg_views": 256,
         "avg_likes": 12
       },
       {
         "hashtag": "#TastyCrousty",
         "uses": 1,
-        "avg_reach": 154,
-        "avg_views": 227,
-        "avg_likes": 5
+        "avg_reach": 156,
+        "avg_views": 233,
+        "avg_likes": 6
       },
       {
         "hashtag": "#MoroccoFood",
         "uses": 1,
-        "avg_reach": 154,
-        "avg_views": 227,
-        "avg_likes": 5
+        "avg_reach": 156,
+        "avg_views": 233,
+        "avg_likes": 6
       },
       {
         "hashtag": "#DimaMaghrib",
@@ -791,8 +791,8 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 161,
-        "avg_views": 179,
+        "avg_reach": 162,
+        "avg_views": 181,
         "avg_likes": 8
       },
       {
