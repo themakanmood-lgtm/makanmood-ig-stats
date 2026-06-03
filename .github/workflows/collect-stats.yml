@@ -38,6 +38,7 @@ jobs:
           echo "GOOGLE_CREDENTIALS_PATH=secrets/google-service-account.json" >> .env
           mkdir -p secrets
           printf '%s' "${GOOGLE_CREDENTIALS}" > secrets/google-service-account.json
+          cp secrets/google-service-account.json service-account.json
 
       - name: Run Instagram stats collector
         run: python ig_stats.py
@@ -55,3 +56,4 @@ jobs:
           git add docs/data.json docs/fb_data.json
           git diff --staged --quiet || git commit -m "chore: update data.json + fb_data.json [skip ci]"
           git push
+          
