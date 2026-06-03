@@ -4,7 +4,6 @@ import requests
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
-# ── CONFIG ────────────────────────────────────────────────────────────────────
 load_dotenv()
 TOKEN   = os.getenv("META_ACCESS_TOKEN")
 PAGE_ID = "1113066855225187"
@@ -14,48 +13,48 @@ OUTPUT  = "docs/fb_data.json"
 if not TOKEN:
     raise SystemExit("ERREUR : META_ACCESS_TOKEN manquant dans .env")
 
-def api_get(endpoint, params={}):
+def api_get(endpoint, token, params={}):
     p = dict(params)
-    p["access_token"] = TOKEN
+    p["access_token"] = token
     r = requests.get(f"{BASE}/{endpoint}", params=p, timeout=20)
     if r.status_code != 200:
         print(f"[!] Erreur {endpoint} : {r.status_code} - {r.text[:200]}")
         return None
     return r.json()
 
-# ── 1. PAGE TOKEN ─────────────────────────────────────────────────────────────
 def get_page_token():
-    data = api_get("me/accounts")
-    if not data:
-        raise SystemExit("ERREUR : impossible de récupérer me/accounts")
-    for page in data.get("data", []):
-        if page["id"] == PAGE_ID:
-            return page["access_token"]
-    raise SystemExit(f"ERREUR : Page {PAGE_ID} non trouvée dans me/accounts")
+    # Essai 1 : via me/accounts
+    data = api_get("me/accounts", TOKEN)
+    if data:
+        for page in data.get("data", []):
+            if page["id"] == PAGE_ID:
+                print("✓ Page token trouvé via me/accounts")
+                return page["access_token"]
+    # Essai 2 : token utilisateur directement
+    print("[!] Page non trouvée dans me/accounts — utilisation du token utilisateur")
+    return TOKEN
 
-# ── 2. INFOS PAGE ─────────────────────────────────────────────────────────────
 def get_page_info(pt):
-    r = requests.get(f"{BASE}/{PAGE_ID}", params={
-        "fields": "name,fan_count,followers_count",
-        "access_token": pt
-    }, timeout=20)
-    data = r.json()
+    data = api_get(PAGE_ID, pt, {
+        "fields": "name,fan_count,followers_count"
+    })
+    if not data:
+        return {"name": "Makan Mood", "fans": 0, "followers": 0}
     return {
         "name":      data.get("name", "Makan Mood"),
         "fans":      data.get("fan_count", 0),
         "followers": data.get("followers_count", 0),
     }
 
-# ── 3. INSIGHTS PAGE ──────────────────────────────────────────────────────────
 def get_page_insights(pt):
     metrics = "page_impressions_unique,page_impressions,page_engaged_users,page_post_engagements"
     try:
-        r = requests.get(f"{BASE}/{PAGE_ID}/insights", params={
+        data = api_get(f"{PAGE_ID}/insights", pt, {
             "metric": metrics,
             "period": "week",
-            "access_token": pt
-        }, timeout=20)
-        data = r.json()
+        })
+        if not data:
+            return {"reach_7d": 0, "impressions_7d": 0, "engaged_users": 0, "engagements": 0}
         result = {}
         for item in data.get("data", []):
             values = item.get("values", [])
@@ -70,14 +69,13 @@ def get_page_insights(pt):
         print(f"[!] Insights non disponibles : {e}")
         return {"reach_7d": 0, "impressions_7d": 0, "engaged_users": 0, "engagements": 0}
 
-# ── 4. TOP POSTS ──────────────────────────────────────────────────────────────
 def get_posts(pt):
-    r = requests.get(f"{BASE}/{PAGE_ID}/posts", params={
+    data = api_get(f"{PAGE_ID}/posts", pt, {
         "fields": "message,created_time,likes.summary(true),comments.summary(true),shares",
         "limit": 10,
-        "access_token": pt
-    }, timeout=20)
-    data = r.json()
+    })
+    if not data:
+        return []
     posts = []
     for p in data.get("data", []):
         posts.append({
@@ -91,18 +89,17 @@ def get_posts(pt):
     print(f"   - {len(posts)} posts collectés")
     return posts
 
-# ── 5. HISTORIQUE FANS 30 jours ───────────────────────────────────────────────
 def get_fans_history(pt):
     try:
         since = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
         until = datetime.now().strftime("%Y-%m-%d")
-        r = requests.get(f"{BASE}/{PAGE_ID}/insights/page_fans", params={
+        data = api_get(f"{PAGE_ID}/insights/page_fans", pt, {
             "period": "day",
             "since": since,
             "until": until,
-            "access_token": pt
-        }, timeout=20)
-        data = r.json()
+        })
+        if not data:
+            return []
         history = []
         entries = data.get("data", [])
         if entries:
@@ -117,21 +114,16 @@ def get_fans_history(pt):
         print(f"[!] Historique fans non disponible : {e}")
         return []
 
-# ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
     print("=" * 50)
     print("MAKAN MOOD - COLLECTE STATS FACEBOOK")
     print("=" * 50)
 
     page_token    = get_page_token()
-    print("✓ Page token obtenu")
-
     page_info     = get_page_info(page_token)
     print(f"✓ Page : {page_info['name']} — {page_info['fans']} fans")
 
     page_insights = get_page_insights(page_token)
-    print(f"✓ Insights : reach={page_insights['reach_7d']}, impressions={page_insights['impressions_7d']}")
-
     posts         = get_posts(page_token)
     history       = get_fans_history(page_token)
 
