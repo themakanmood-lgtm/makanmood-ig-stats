@@ -82,4 +82,82 @@ def get_posts(pt):
     for p in data.get("data", []):
         posts.append({
             "id":        p.get("id", ""),
-            "message"
+            "message":   (p.get("message", "") or "")[:120],
+            "timestamp": p.get("created_time", ""),
+            "likes":     p.get("likes", {}).get("summary", {}).get("total_count", 0),
+            "comments":  p.get("comments", {}).get("summary", {}).get("total_count", 0),
+            "shares":    p.get("shares", {}).get("count", 0),
+        })
+    print(f"   - {len(posts)} posts collectés")
+    return posts
+
+# ── 5. HISTORIQUE FANS 30 jours ───────────────────────────────────────────────
+def get_fans_history(pt):
+    try:
+        since = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+        until = datetime.now().strftime("%Y-%m-%d")
+        r = requests.get(f"{BASE}/{PAGE_ID}/insights/page_fans", params={
+            "period": "day",
+            "since": since,
+            "until": until,
+            "access_token": pt
+        }, timeout=20)
+        data = r.json()
+        history = []
+        entries = data.get("data", [])
+        if entries:
+            for item in entries[0].get("values", []):
+                history.append({
+                    "date": item.get("end_time", "")[:10],
+                    "fans": item.get("value", 0)
+                })
+        print(f"   - {len(history)} jours d'historique")
+        return history
+    except Exception as e:
+        print(f"[!] Historique fans non disponible : {e}")
+        return []
+
+# ── MAIN ──────────────────────────────────────────────────────────────────────
+def main():
+    print("=" * 50)
+    print("MAKAN MOOD - COLLECTE STATS FACEBOOK")
+    print("=" * 50)
+
+    page_token    = get_page_token()
+    print("✓ Page token obtenu")
+
+    page_info     = get_page_info(page_token)
+    print(f"✓ Page : {page_info['name']} — {page_info['fans']} fans")
+
+    page_insights = get_page_insights(page_token)
+    print(f"✓ Insights : reach={page_insights['reach_7d']}, impressions={page_insights['impressions_7d']}")
+
+    posts         = get_posts(page_token)
+    history       = get_fans_history(page_token)
+
+    fans_delta = 0
+    if len(history) >= 8:
+        fans_delta = history[-1]["fans"] - history[-8]["fans"]
+
+    output = {
+        "collected_at": datetime.utcnow().isoformat() + "Z",
+        "page": {
+            "name":            page_info["name"],
+            "fans":            page_info["fans"],
+            "followers":       page_info["followers"],
+            "fans_delta_week": fans_delta,
+        },
+        "insights": page_insights,
+        "posts":    posts,
+        "history":  history,
+    }
+
+    os.makedirs("docs", exist_ok=True)
+    with open(OUTPUT, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"✓ fb_data.json écrit — {len(posts)} posts, {len(history)} jours")
+    print("=" * 50)
+
+if __name__ == "__main__":
+    main()
