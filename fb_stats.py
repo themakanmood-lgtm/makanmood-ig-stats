@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 TOKEN   = os.getenv("META_ACCESS_TOKEN")
-PAGE_ID = "1113066855225187"
+PAGE_ID = "61590145329724"
 BASE    = "https://graph.facebook.com/v19.0"
 OUTPUT  = "docs/fb_data.json"
 
