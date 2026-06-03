@@ -37,7 +37,7 @@ jobs:
           echo "GOOGLE_SHEET_ID=1rscVUw8ZNP1bpsUUQdn1XdM-QSp2Ku1zTNFV_t3p0yM" >> .env
           echo "GOOGLE_CREDENTIALS_PATH=secrets/google-service-account.json" >> .env
           mkdir -p secrets
-          echo "${GOOGLE_CREDENTIALS}" > secrets/google-service-account.json
+          printf '%s' "${GOOGLE_CREDENTIALS}" > secrets/google-service-account.json
 
       - name: Run Instagram stats collector
         run: python ig_stats.py
