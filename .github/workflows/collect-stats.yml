@@ -37,7 +37,7 @@ jobs:
         run: |
           echo "META_ACCESS_TOKEN=${META_ACCESS_TOKEN}" >> .env
           echo "PAGE_ID=1113066855225187" >> .env
-          echo "INSTAGRAM_ACCOUNT_ID=17841480547594788" >> .env
+          echo "IG_BUSINESS_ACCOUNT_ID=17841480547594788" >> .env
           echo "GOOGLE_SHEET_ID=1rscVUw8ZNP1bpsUUQdn1XdM-QSp2Ku1zTNFV_t3p0yM" >> .env
           echo "GOOGLE_CREDENTIALS_PATH=secrets/google-service-account.json" >> .env
           mkdir -p secrets
