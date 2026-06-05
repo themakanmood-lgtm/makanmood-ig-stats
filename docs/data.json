@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T19:49:09.462797+00:00",
+  "generated_at": "2026-06-05T11:51:13.028149+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -8,11 +8,11 @@
     "biography": "Food • Business • Culture • Lifestyle\nExplorer. Comprendre. Construire.\n↓ Découvrir le Maroc autrement",
     "website": "http://www.tiktok.com/@makanmoodjournal",
     "followers": 48,
-    "follows": 47,
+    "follows": 48,
     "media": 20,
-    "followers_delta_week": 4,
-    "follows_delta_week": 0,
-    "media_delta_week": 7,
+    "followers_delta_week": 3,
+    "follows_delta_week": 1,
+    "media_delta_week": 6,
     "history": [
       {
         "date": "2026-05-23",
@@ -91,9 +91,15 @@
         "followers": 48,
         "follows": 47,
         "media": 20
+      },
+      {
+        "date": "2026-06-05",
+        "followers": 48,
+        "follows": 48,
+        "media": 20
       }
     ],
-    "snapshots_count": 32
+    "snapshots_count": 33
   },
   "posts_section": {
     "posts": [
@@ -112,13 +118,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 11,
-        "views": 172,
-        "likes": 1,
+        "reach": 226,
+        "views": 312,
+        "likes": 7,
         "comments": 0,
         "saved": 0,
         "shares": 1,
-        "total_interactions": 2
+        "total_interactions": 8
       },
       {
         "media_id": "18066556196446099",
@@ -135,8 +141,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 47,
-        "views": 61,
+        "reach": 58,
+        "views": 70,
         "likes": 3,
         "comments": 0,
         "saved": 1,
@@ -158,8 +164,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 202,
-        "views": 257,
+        "reach": 213,
+        "views": 269,
         "likes": 10,
         "comments": 0,
         "saved": 1,
@@ -181,8 +187,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 179,
-        "views": 213,
+        "reach": 181,
+        "views": 214,
         "likes": 14,
         "comments": 5,
         "saved": 0,
@@ -204,13 +210,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 161,
-        "views": 208,
+        "reach": 163,
+        "views": 211,
         "likes": 4,
         "comments": 0,
         "saved": 0,
-        "shares": 0,
-        "total_interactions": 4
+        "shares": 1,
+        "total_interactions": 5
       },
       {
         "media_id": "18004173839868471",
@@ -227,8 +233,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 173,
-        "views": 262,
+        "reach": 175,
+        "views": 263,
         "likes": 8,
         "comments": 0,
         "saved": 1,
@@ -273,8 +279,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 185,
-        "views": 224,
+        "reach": 188,
+        "views": 228,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -296,8 +302,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 247,
-        "views": 321,
+        "reach": 249,
+        "views": 326,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -342,7 +348,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 600,
+        "reach": 601,
         "views": 715,
         "likes": 16,
         "comments": 0,
@@ -365,8 +371,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 237,
-        "views": 305,
+        "reach": 238,
+        "views": 306,
         "likes": 9,
         "comments": 0,
         "saved": 2,
@@ -387,8 +393,8 @@
         ],
         "hashtag_count": 4,
         "mention_count": 0,
-        "reach": 215,
-        "views": 268,
+        "reach": 217,
+        "views": 274,
         "likes": 20,
         "comments": 0,
         "saved": 0,
@@ -410,7 +416,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 137,
+        "reach": 138,
         "views": 192,
         "likes": 9,
         "comments": 0,
@@ -433,8 +439,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 260,
-        "views": 347,
+        "reach": 261,
+        "views": 349,
         "likes": 12,
         "comments": 0,
         "saved": 1,
@@ -479,8 +485,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 390,
-        "views": 507,
+        "reach": 391,
+        "views": 508,
         "likes": 20,
         "comments": 0,
         "saved": 2,
@@ -525,7 +531,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 257,
+        "reach": 258,
         "views": 399,
         "likes": 17,
         "comments": 0,
@@ -548,8 +554,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 402,
-        "views": 579,
+        "reach": 403,
+        "views": 580,
         "likes": 20,
         "comments": 0,
         "saved": 3,
@@ -571,7 +577,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 90,
+        "reach": 91,
         "views": 0,
         "likes": 15,
         "comments": 0,
@@ -582,12 +588,12 @@
     ],
     "totals": {
       "count": 21,
-      "reach_total": 5578,
-      "views_total": 7293,
-      "likes_total": 252,
+      "reach_total": 5836,
+      "views_total": 7479,
+      "likes_total": 258,
       "comments_total": 5,
       "saves_total": 16,
-      "shares_total": 28
+      "shares_total": 29
     },
     "top_by_views": [
       "18084907022092283",
@@ -637,71 +643,71 @@
       {
         "hashtag": "#AidKebir",
         "uses": 1,
-        "avg_reach": 600,
+        "avg_reach": 601,
         "avg_views": 715,
         "avg_likes": 16
       },
       {
         "hashtag": "#Eid2026",
         "uses": 1,
-        "avg_reach": 600,
+        "avg_reach": 601,
         "avg_views": 715,
         "avg_likes": 16
       },
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 402,
-        "avg_views": 579,
+        "avg_reach": 403,
+        "avg_views": 580,
         "avg_likes": 20
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 402,
-        "avg_views": 579,
+        "avg_reach": 403,
+        "avg_views": 580,
         "avg_likes": 20
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 402,
-        "avg_views": 579,
+        "avg_reach": 403,
+        "avg_views": 580,
         "avg_likes": 20
       },
       {
         "hashtag": "#Maroc",
         "uses": 7,
-        "avg_reach": 398,
-        "avg_views": 517,
-        "avg_likes": 15
+        "avg_reach": 429,
+        "avg_views": 538,
+        "avg_likes": 16
       },
       {
         "hashtag": "#PatrimoineSalé",
         "uses": 1,
-        "avg_reach": 390,
-        "avg_views": 507,
+        "avg_reach": 391,
+        "avg_views": 508,
         "avg_likes": 20
       },
       {
         "hashtag": "#ArtisanatMaroc",
         "uses": 1,
-        "avg_reach": 390,
-        "avg_views": 507,
+        "avg_reach": 391,
+        "avg_views": 508,
         "avg_likes": 20
       },
       {
         "hashtag": "#RabatSalé",
         "uses": 1,
-        "avg_reach": 390,
-        "avg_views": 507,
+        "avg_reach": 391,
+        "avg_views": 508,
         "avg_likes": 20
       },
       {
         "hashtag": "#MoroccanCulture",
         "uses": 1,
-        "avg_reach": 390,
-        "avg_views": 507,
+        "avg_reach": 391,
+        "avg_views": 508,
         "avg_likes": 20
       },
       {
@@ -728,190 +734,204 @@
       {
         "hashtag": "#RabatLife",
         "uses": 1,
-        "avg_reach": 257,
+        "avg_reach": 258,
         "avg_views": 399,
         "avg_likes": 17
       },
       {
         "hashtag": "#StreetFood",
         "uses": 1,
-        "avg_reach": 257,
+        "avg_reach": 258,
         "avg_views": 399,
         "avg_likes": 17
       },
       {
         "hashtag": "#Morocco",
         "uses": 11,
-        "avg_reach": 250,
-        "avg_views": 349,
+        "avg_reach": 272,
+        "avg_views": 364,
         "avg_likes": 10
       },
       {
         "hashtag": "#Golf",
         "uses": 1,
-        "avg_reach": 260,
-        "avg_views": 347,
+        "avg_reach": 261,
+        "avg_views": 349,
         "avg_likes": 12
       },
       {
         "hashtag": "#TropheeHassanII",
         "uses": 1,
-        "avg_reach": 260,
-        "avg_views": 347,
+        "avg_reach": 261,
+        "avg_views": 349,
         "avg_likes": 12
       },
       {
         "hashtag": "#MoroccoLife",
         "uses": 2,
-        "avg_reach": 230,
-        "avg_views": 328,
+        "avg_reach": 236,
+        "avg_views": 334,
         "avg_likes": 14
       },
       {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 247,
-        "avg_views": 321,
+        "avg_reach": 249,
+        "avg_views": 326,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 247,
-        "avg_views": 321,
+        "avg_reach": 249,
+        "avg_views": 326,
         "avg_likes": 5
+      },
+      {
+        "hashtag": "#MRE",
+        "uses": 1,
+        "avg_reach": 226,
+        "avg_views": 312,
+        "avg_likes": 7
+      },
+      {
+        "hashtag": "#ExpatMaroc",
+        "uses": 1,
+        "avg_reach": 226,
+        "avg_views": 312,
+        "avg_likes": 7
       },
       {
         "hashtag": "#EidVibes",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 305,
+        "avg_reach": 238,
+        "avg_views": 306,
         "avg_likes": 9
       },
       {
         "hashtag": "#France",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 305,
+        "avg_reach": 238,
+        "avg_views": 306,
         "avg_likes": 9
       },
       {
         "hashtag": "#VieDeFamille",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 305,
+        "avg_reach": 238,
+        "avg_views": 306,
         "avg_likes": 9
       },
       {
         "hashtag": "#PourToi",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 305,
+        "avg_reach": 238,
+        "avg_views": 306,
         "avg_likes": 9
       },
       {
         "hashtag": "#Rabat",
         "uses": 10,
-        "avg_reach": 213,
-        "avg_views": 278,
+        "avg_reach": 215,
+        "avg_views": 281,
         "avg_likes": 11
       },
       {
         "hashtag": "#Nature",
         "uses": 1,
-        "avg_reach": 215,
-        "avg_views": 268,
+        "avg_reach": 217,
+        "avg_views": 274,
         "avg_likes": 20
       },
       {
         "hashtag": "#Paysage",
         "uses": 1,
-        "avg_reach": 215,
-        "avg_views": 268,
+        "avg_reach": 217,
+        "avg_views": 274,
         "avg_likes": 20
       },
       {
         "hashtag": "#Voyage",
         "uses": 1,
-        "avg_reach": 215,
-        "avg_views": 268,
+        "avg_reach": 217,
+        "avg_views": 274,
         "avg_likes": 20
       },
       {
         "hashtag": "#TastyCrousty",
         "uses": 1,
-        "avg_reach": 173,
-        "avg_views": 262,
+        "avg_reach": 175,
+        "avg_views": 263,
         "avg_likes": 8
       },
       {
         "hashtag": "#MoroccoFood",
         "uses": 1,
-        "avg_reach": 173,
-        "avg_views": 262,
+        "avg_reach": 175,
+        "avg_views": 263,
         "avg_likes": 8
       },
       {
         "hashtag": "#MakanMood",
         "uses": 9,
-        "avg_reach": 181,
-        "avg_views": 241,
-        "avg_likes": 10
+        "avg_reach": 207,
+        "avg_views": 258,
+        "avg_likes": 11
       },
       {
         "hashtag": "#Atay",
         "uses": 2,
-        "avg_reach": 170,
-        "avg_views": 224,
+        "avg_reach": 176,
+        "avg_views": 230,
         "avg_likes": 10
       },
       {
         "hashtag": "#DimaMaghrib",
         "uses": 1,
-        "avg_reach": 185,
-        "avg_views": 224,
+        "avg_reach": 188,
+        "avg_views": 228,
         "avg_likes": 5
       },
       {
         "hashtag": "#CDM2026",
         "uses": 1,
-        "avg_reach": 185,
-        "avg_views": 224,
+        "avg_reach": 188,
+        "avg_views": 228,
         "avg_likes": 5
       },
       {
         "hashtag": "#FiersDuMaroc",
         "uses": 1,
-        "avg_reach": 185,
-        "avg_views": 224,
+        "avg_reach": 188,
+        "avg_views": 228,
         "avg_likes": 5
       },
       {
         "hashtag": "#Sunset",
         "uses": 1,
-        "avg_reach": 179,
-        "avg_views": 213,
+        "avg_reach": 181,
+        "avg_views": 214,
         "avg_likes": 14
       },
       {
         "hashtag": "#CornicheRabat",
         "uses": 1,
-        "avg_reach": 179,
-        "avg_views": 213,
+        "avg_reach": 181,
+        "avg_views": 214,
         "avg_likes": 14
       },
       {
         "hashtag": "#MoroccoGamingExpo",
         "uses": 1,
-        "avg_reach": 161,
-        "avg_views": 208,
+        "avg_reach": 163,
+        "avg_views": 211,
         "avg_likes": 4
       },
       {
         "hashtag": "#Gaming",
         "uses": 1,
-        "avg_reach": 161,
-        "avg_views": 208,
+        "avg_reach": 163,
+        "avg_views": 211,
         "avg_likes": 4
       },
       {
@@ -931,78 +951,64 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 170,
-        "avg_views": 194,
+        "avg_reach": 172,
+        "avg_views": 196,
         "avg_likes": 9
       },
       {
         "hashtag": "#MarocainsDuMonde",
         "uses": 1,
-        "avg_reach": 137,
+        "avg_reach": 138,
         "avg_views": 192,
         "avg_likes": 9
       },
       {
         "hashtag": "#Darija",
         "uses": 1,
-        "avg_reach": 137,
+        "avg_reach": 138,
         "avg_views": 192,
         "avg_likes": 9
       },
       {
         "hashtag": "#ReelsFrance",
         "uses": 1,
-        "avg_reach": 137,
+        "avg_reach": 138,
         "avg_views": 192,
         "avg_likes": 9
       },
       {
-        "hashtag": "#MRE",
-        "uses": 1,
-        "avg_reach": 11,
-        "avg_views": 172,
-        "avg_likes": 1
-      },
-      {
-        "hashtag": "#ExpatMaroc",
-        "uses": 1,
-        "avg_reach": 11,
-        "avg_views": 172,
-        "avg_likes": 1
-      },
-      {
         "hashtag": "#maroc",
         "uses": 2,
-        "avg_reach": 113,
-        "avg_views": 137,
+        "avg_reach": 120,
+        "avg_views": 142,
         "avg_likes": 8
       },
       {
         "hashtag": "#rabat",
         "uses": 1,
-        "avg_reach": 47,
-        "avg_views": 61,
+        "avg_reach": 58,
+        "avg_views": 70,
         "avg_likes": 3
       },
       {
         "hashtag": "#oudaya",
         "uses": 1,
-        "avg_reach": 47,
-        "avg_views": 61,
+        "avg_reach": 58,
+        "avg_views": 70,
         "avg_likes": 3
       },
       {
         "hashtag": "#mre",
         "uses": 1,
-        "avg_reach": 47,
-        "avg_views": 61,
+        "avg_reach": 58,
+        "avg_views": 70,
         "avg_likes": 3
       },
       {
         "hashtag": "#mentalite",
         "uses": 1,
-        "avg_reach": 47,
-        "avg_views": 61,
+        "avg_reach": 58,
+        "avg_views": 70,
         "avg_likes": 3
       },
       {
@@ -1029,14 +1035,14 @@
       {
         "hashtag": "#MoroccoEats",
         "uses": 1,
-        "avg_reach": 90,
+        "avg_reach": 91,
         "avg_views": 0,
         "avg_likes": 15
       },
       {
         "hashtag": "#HiddenGemsRabat",
         "uses": 1,
-        "avg_reach": 90,
+        "avg_reach": 91,
         "avg_views": 0,
         "avg_likes": 15
       }
@@ -1049,10 +1055,10 @@
         "type": "VIDEO",
         "published_at": "2026-06-04T19:27:42+0000",
         "permalink": "https://www.instagram.com/stories/makanmoodjournal/3912289413010830302",
-        "reach": 0,
-        "views": 0,
+        "reach": 16,
+        "views": 25,
         "replies": 0,
-        "total_interactions": 0
+        "total_interactions": 1
       },
       {
         "story_id": "18166263544441501",
@@ -1357,8 +1363,8 @@
     ],
     "totals": {
       "count": 31,
-      "reach_total": 879,
-      "views_total": 1158,
+      "reach_total": 895,
+      "views_total": 1183,
       "replies_total": 2
     }
   }
