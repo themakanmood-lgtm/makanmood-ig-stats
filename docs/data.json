@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T10:14:56.518806+00:00",
+  "generated_at": "2026-06-07T16:54:55.599107+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -7,10 +7,10 @@
     "name": "Makan Mood",
     "biography": "Food • Business • Culture • Lifestyle\nExplorer. Comprendre. Construire.\n↓ Découvrir le Maroc autrement",
     "website": "http://www.tiktok.com/@makanmoodjournal",
-    "followers": 49,
+    "followers": 50,
     "follows": 48,
     "media": 20,
-    "followers_delta_week": 2,
+    "followers_delta_week": 3,
     "follows_delta_week": 1,
     "media_delta_week": 5,
     "history": [
@@ -106,12 +106,12 @@
       },
       {
         "date": "2026-06-07",
-        "followers": 49,
+        "followers": 50,
         "follows": 48,
         "media": 20
       }
     ],
-    "snapshots_count": 38
+    "snapshots_count": 39
   },
   "posts_section": {
     "posts": [
@@ -131,12 +131,12 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 264,
-        "views": 391,
+        "views": 392,
         "likes": 10,
-        "comments": 1,
+        "comments": 2,
         "saved": 0,
         "shares": 2,
-        "total_interactions": 14
+        "total_interactions": 15
       },
       {
         "media_id": "18066556196446099",
@@ -202,10 +202,10 @@
         "reach": 184,
         "views": 217,
         "likes": 15,
-        "comments": 5,
+        "comments": 6,
         "saved": 0,
         "shares": 0,
-        "total_interactions": 21
+        "total_interactions": 22
       },
       {
         "media_id": "18092978117245310",
@@ -245,8 +245,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 178,
-        "views": 276,
+        "reach": 179,
+        "views": 277,
         "likes": 8,
         "comments": 0,
         "saved": 1,
@@ -314,8 +314,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 251,
-        "views": 328,
+        "reach": 253,
+        "views": 329,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -566,8 +566,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 406,
-        "views": 583,
+        "reach": 407,
+        "views": 586,
         "likes": 20,
         "comments": 0,
         "saved": 3,
@@ -600,10 +600,10 @@
     ],
     "totals": {
       "count": 21,
-      "reach_total": 5913,
-      "views_total": 7623,
+      "reach_total": 5917,
+      "views_total": 7629,
       "likes_total": 263,
-      "comments_total": 6,
+      "comments_total": 8,
       "saves_total": 16,
       "shares_total": 30
     },
@@ -616,10 +616,10 @@
     ],
     "top_by_engagement": [
       "18084907022092283",
-      "18170316739412330",
       "18121005160671650",
+      "18170316739412330",
       "17922792477345910",
-      "18105897725314339"
+      "18068683697368673"
     ]
   },
   "hashtags_section": {
@@ -669,22 +669,22 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 406,
-        "avg_views": 583,
+        "avg_reach": 407,
+        "avg_views": 586,
         "avg_likes": 20
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 406,
-        "avg_views": 583,
+        "avg_reach": 407,
+        "avg_views": 586,
         "avg_likes": 20
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 406,
-        "avg_views": 583,
+        "avg_reach": 407,
+        "avg_views": 586,
         "avg_likes": 20
       },
       {
@@ -761,14 +761,14 @@
         "hashtag": "#MRE",
         "uses": 1,
         "avg_reach": 264,
-        "avg_views": 391,
+        "avg_views": 392,
         "avg_likes": 10
       },
       {
         "hashtag": "#ExpatMaroc",
         "uses": 1,
         "avg_reach": 264,
-        "avg_views": 391,
+        "avg_views": 392,
         "avg_likes": 10
       },
       {
@@ -802,15 +802,15 @@
       {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 251,
-        "avg_views": 328,
+        "avg_reach": 253,
+        "avg_views": 329,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 251,
-        "avg_views": 328,
+        "avg_reach": 253,
+        "avg_views": 329,
         "avg_likes": 5
       },
       {
@@ -845,7 +845,7 @@
         "hashtag": "#Rabat",
         "uses": 10,
         "avg_reach": 218,
-        "avg_views": 285,
+        "avg_views": 286,
         "avg_likes": 11
       },
       {
@@ -872,15 +872,15 @@
       {
         "hashtag": "#TastyCrousty",
         "uses": 1,
-        "avg_reach": 178,
-        "avg_views": 276,
+        "avg_reach": 179,
+        "avg_views": 277,
         "avg_likes": 8
       },
       {
         "hashtag": "#MoroccoFood",
         "uses": 1,
-        "avg_reach": 178,
-        "avg_views": 276,
+        "avg_reach": 179,
+        "avg_views": 277,
         "avg_likes": 8
       },
       {
@@ -949,8 +949,8 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 173,
-        "avg_views": 201,
+        "avg_reach": 174,
+        "avg_views": 202,
         "avg_likes": 9
       },
       {
@@ -1067,8 +1067,8 @@
         "type": "VIDEO",
         "published_at": "2026-06-06T19:01:05+0000",
         "permalink": "https://www.instagram.com/stories/makanmoodjournal/3913725614448224918",
-        "reach": 12,
-        "views": 17,
+        "reach": 15,
+        "views": 21,
         "replies": 0,
         "total_interactions": 1
       },
@@ -1425,8 +1425,8 @@
     ],
     "totals": {
       "count": 36,
-      "reach_total": 979,
-      "views_total": 1292,
+      "reach_total": 982,
+      "views_total": 1296,
       "replies_total": 2
     }
   }
