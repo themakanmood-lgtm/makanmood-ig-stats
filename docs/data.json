@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:03:21.773249+00:00",
+  "generated_at": "2026-06-09T11:44:25.989552+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -12,7 +12,7 @@
     "media": 20,
     "followers_delta_week": 3,
     "follows_delta_week": 1,
-    "media_delta_week": 4,
+    "media_delta_week": 3,
     "history": [
       {
         "date": "2026-05-23",
@@ -115,9 +115,15 @@
         "followers": 50,
         "follows": 48,
         "media": 20
+      },
+      {
+        "date": "2026-06-09",
+        "followers": 50,
+        "follows": 48,
+        "media": 20
       }
     ],
-    "snapshots_count": 42
+    "snapshots_count": 43
   },
   "posts_section": {
     "posts": [
@@ -160,7 +166,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 61,
-        "views": 78,
+        "views": 83,
         "likes": 4,
         "comments": 0,
         "saved": 1,
@@ -252,7 +258,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 179,
-        "views": 277,
+        "views": 278,
         "likes": 8,
         "comments": 0,
         "saved": 1,
@@ -607,7 +613,7 @@
     "totals": {
       "count": 21,
       "reach_total": 5936,
-      "views_total": 7652,
+      "views_total": 7658,
       "likes_total": 264,
       "comments_total": 8,
       "saves_total": 16,
@@ -879,14 +885,14 @@
         "hashtag": "#TastyCrousty",
         "uses": 1,
         "avg_reach": 179,
-        "avg_views": 277,
+        "avg_views": 278,
         "avg_likes": 8
       },
       {
         "hashtag": "#MoroccoFood",
         "uses": 1,
         "avg_reach": 179,
-        "avg_views": 277,
+        "avg_views": 278,
         "avg_likes": 8
       },
       {
@@ -956,7 +962,7 @@
         "hashtag": "#RabatFood",
         "uses": 3,
         "avg_reach": 176,
-        "avg_views": 203,
+        "avg_views": 204,
         "avg_likes": 9
       },
       {
@@ -998,35 +1004,35 @@
         "hashtag": "#maroc",
         "uses": 2,
         "avg_reach": 124,
-        "avg_views": 150,
+        "avg_views": 152,
         "avg_likes": 10
       },
       {
         "hashtag": "#rabat",
         "uses": 1,
         "avg_reach": 61,
-        "avg_views": 78,
+        "avg_views": 83,
         "avg_likes": 4
       },
       {
         "hashtag": "#oudaya",
         "uses": 1,
         "avg_reach": 61,
-        "avg_views": 78,
+        "avg_views": 83,
         "avg_likes": 4
       },
       {
         "hashtag": "#mre",
         "uses": 1,
         "avg_reach": 61,
-        "avg_views": 78,
+        "avg_views": 83,
         "avg_likes": 4
       },
       {
         "hashtag": "#mentalite",
         "uses": 1,
         "avg_reach": 61,
-        "avg_views": 78,
+        "avg_views": 83,
         "avg_likes": 4
       },
       {
