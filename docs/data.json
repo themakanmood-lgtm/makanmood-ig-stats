@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:35:18.083976+00:00",
+  "generated_at": "2026-06-12T23:03:07.596102+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -141,7 +141,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 49
+    "snapshots_count": 50
   },
   "posts_section": {
     "posts": [
@@ -160,13 +160,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 61,
+        "reach": 74,
         "views": 0,
         "likes": 8,
         "comments": 1,
         "saved": 0,
-        "shares": 0,
-        "total_interactions": 10
+        "shares": 1,
+        "total_interactions": 11
       },
       {
         "media_id": "18161534590460682",
@@ -390,8 +390,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 260,
-        "views": 338,
+        "reach": 261,
+        "views": 339,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -481,8 +481,8 @@
         ],
         "hashtag_count": 4,
         "mention_count": 0,
-        "reach": 226,
-        "views": 283,
+        "reach": 227,
+        "views": 284,
         "likes": 20,
         "comments": 0,
         "saved": 0,
@@ -676,12 +676,12 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6049,
-      "views_total": 7714,
+      "reach_total": 6064,
+      "views_total": 7716,
       "likes_total": 279,
       "comments_total": 9,
       "saves_total": 16,
-      "shares_total": 30
+      "shares_total": 31
     },
     "top_by_views": [
       "18084907022092283",
@@ -871,15 +871,15 @@
       {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 260,
-        "avg_views": 338,
+        "avg_reach": 261,
+        "avg_views": 339,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 260,
-        "avg_views": 338,
+        "avg_reach": 261,
+        "avg_views": 339,
         "avg_likes": 5
       },
       {
@@ -920,22 +920,22 @@
       {
         "hashtag": "#Nature",
         "uses": 1,
-        "avg_reach": 226,
-        "avg_views": 283,
+        "avg_reach": 227,
+        "avg_views": 284,
         "avg_likes": 20
       },
       {
         "hashtag": "#Paysage",
         "uses": 1,
-        "avg_reach": 226,
-        "avg_views": 283,
+        "avg_reach": 227,
+        "avg_views": 284,
         "avg_likes": 20
       },
       {
         "hashtag": "#Voyage",
         "uses": 1,
-        "avg_reach": 226,
-        "avg_views": 283,
+        "avg_reach": 227,
+        "avg_views": 284,
         "avg_likes": 20
       },
       {
@@ -948,14 +948,14 @@
       {
         "hashtag": "#Rabat",
         "uses": 12,
-        "avg_reach": 191,
+        "avg_reach": 192,
         "avg_views": 243,
         "avg_likes": 11
       },
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 185,
+        "avg_reach": 190,
         "avg_views": 234,
         "avg_likes": 12
       },
@@ -983,7 +983,7 @@
       {
         "hashtag": "#MakanMood",
         "uses": 11,
-        "avg_reach": 184,
+        "avg_reach": 186,
         "avg_views": 227,
         "avg_likes": 10
       },
@@ -1067,7 +1067,7 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 87,
+        "avg_reach": 91,
         "avg_views": 95,
         "avg_likes": 7
       },
@@ -1144,7 +1144,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 61,
+        "avg_reach": 74,
         "avg_views": 0,
         "avg_likes": 8
       }
