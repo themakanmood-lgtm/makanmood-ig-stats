@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T23:11:36.399287+00:00",
+  "generated_at": "2026-06-12T12:35:18.083976+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -10,7 +10,7 @@
     "followers": 50,
     "follows": 48,
     "media": 22,
-    "followers_delta_week": 2,
+    "followers_delta_week": 1,
     "follows_delta_week": 0,
     "media_delta_week": 2,
     "history": [
@@ -133,9 +133,15 @@
         "followers": 50,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-12",
+        "followers": 50,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 48
+    "snapshots_count": 49
   },
   "posts_section": {
     "posts": [
@@ -154,7 +160,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 45,
+        "reach": 61,
         "views": 0,
         "likes": 8,
         "comments": 1,
@@ -292,8 +298,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 164,
-        "views": 212,
+        "reach": 165,
+        "views": 214,
         "likes": 4,
         "comments": 0,
         "saved": 0,
@@ -637,7 +643,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 413,
-        "views": 590,
+        "views": 595,
         "likes": 21,
         "comments": 0,
         "saved": 3,
@@ -670,8 +676,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6032,
-      "views_total": 7707,
+      "reach_total": 6049,
+      "views_total": 7714,
       "likes_total": 279,
       "comments_total": 9,
       "saves_total": 16,
@@ -740,21 +746,21 @@
         "hashtag": "#RabatMorocco",
         "uses": 1,
         "avg_reach": 413,
-        "avg_views": 590,
+        "avg_views": 595,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
         "avg_reach": 413,
-        "avg_views": 590,
+        "avg_views": 595,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
         "avg_reach": 413,
-        "avg_views": 590,
+        "avg_views": 595,
         "avg_likes": 21
       },
       {
@@ -859,7 +865,7 @@
         "hashtag": "#Morocco",
         "uses": 12,
         "avg_reach": 258,
-        "avg_views": 346,
+        "avg_views": 347,
         "avg_likes": 10
       },
       {
@@ -942,14 +948,14 @@
       {
         "hashtag": "#Rabat",
         "uses": 12,
-        "avg_reach": 190,
-        "avg_views": 242,
+        "avg_reach": 191,
+        "avg_views": 243,
         "avg_likes": 11
       },
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 180,
+        "avg_reach": 185,
         "avg_views": 234,
         "avg_likes": 12
       },
@@ -975,6 +981,13 @@
         "avg_likes": 5
       },
       {
+        "hashtag": "#MakanMood",
+        "uses": 11,
+        "avg_reach": 184,
+        "avg_views": 227,
+        "avg_likes": 10
+      },
+      {
         "hashtag": "#Sunset",
         "uses": 1,
         "avg_reach": 189,
@@ -989,24 +1002,17 @@
         "avg_likes": 15
       },
       {
-        "hashtag": "#MakanMood",
-        "uses": 11,
-        "avg_reach": 183,
-        "avg_views": 226,
-        "avg_likes": 10
-      },
-      {
         "hashtag": "#MoroccoGamingExpo",
         "uses": 1,
-        "avg_reach": 164,
-        "avg_views": 212,
+        "avg_reach": 165,
+        "avg_views": 214,
         "avg_likes": 4
       },
       {
         "hashtag": "#Gaming",
         "uses": 1,
-        "avg_reach": 164,
-        "avg_views": 212,
+        "avg_reach": 165,
+        "avg_views": 214,
         "avg_likes": 4
       },
       {
@@ -1061,7 +1067,7 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 81,
+        "avg_reach": 87,
         "avg_views": 95,
         "avg_likes": 7
       },
@@ -1138,7 +1144,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 45,
+        "avg_reach": 61,
         "avg_views": 0,
         "avg_likes": 8
       }
