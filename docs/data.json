@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T17:02:12.194305+00:00",
+  "generated_at": "2026-06-13T21:53:35.989115+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -147,7 +147,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 52
+    "snapshots_count": 53
   },
   "posts_section": {
     "posts": [
@@ -166,13 +166,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 78,
+        "reach": 81,
         "views": 0,
-        "likes": 9,
+        "likes": 10,
         "comments": 1,
         "saved": 0,
         "shares": 1,
-        "total_interactions": 12
+        "total_interactions": 13
       },
       {
         "media_id": "18161534590460682",
@@ -258,8 +258,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 236,
-        "views": 301,
+        "reach": 237,
+        "views": 302,
         "likes": 10,
         "comments": 0,
         "saved": 1,
@@ -580,7 +580,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 395,
-        "views": 512,
+        "views": 513,
         "likes": 20,
         "comments": 0,
         "saved": 2,
@@ -682,9 +682,9 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6076,
-      "views_total": 7725,
-      "likes_total": 280,
+      "reach_total": 6080,
+      "views_total": 7727,
+      "likes_total": 281,
       "comments_total": 9,
       "saves_total": 16,
       "shares_total": 31
@@ -780,28 +780,28 @@
         "hashtag": "#PatrimoineSalé",
         "uses": 1,
         "avg_reach": 395,
-        "avg_views": 512,
+        "avg_views": 513,
         "avg_likes": 20
       },
       {
         "hashtag": "#ArtisanatMaroc",
         "uses": 1,
         "avg_reach": 395,
-        "avg_views": 512,
+        "avg_views": 513,
         "avg_likes": 20
       },
       {
         "hashtag": "#RabatSalé",
         "uses": 1,
         "avg_reach": 395,
-        "avg_views": 512,
+        "avg_views": 513,
         "avg_likes": 20
       },
       {
         "hashtag": "#MoroccanCulture",
         "uses": 1,
         "avg_reach": 395,
-        "avg_views": 512,
+        "avg_views": 513,
         "avg_likes": 20
       },
       {
@@ -947,8 +947,8 @@
       {
         "hashtag": "#Atay",
         "uses": 2,
-        "avg_reach": 187,
-        "avg_views": 246,
+        "avg_reach": 188,
+        "avg_views": 247,
         "avg_likes": 10
       },
       {
@@ -961,7 +961,7 @@
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 191,
+        "avg_reach": 192,
         "avg_views": 234,
         "avg_likes": 12
       },
@@ -991,7 +991,7 @@
         "uses": 11,
         "avg_reach": 186,
         "avg_views": 227,
-        "avg_likes": 10
+        "avg_likes": 11
       },
       {
         "hashtag": "#Sunset",
@@ -1073,9 +1073,9 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 93,
+        "avg_reach": 94,
         "avg_views": 95,
-        "avg_likes": 7
+        "avg_likes": 8
       },
       {
         "hashtag": "#rabat",
@@ -1150,9 +1150,9 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 78,
+        "avg_reach": 81,
         "avg_views": 0,
-        "avg_likes": 9
+        "avg_likes": 10
       }
     ]
   },
