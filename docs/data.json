@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T10:41:03.993977+00:00",
+  "generated_at": "2026-06-14T17:01:30.054075+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -153,7 +153,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 54
+    "snapshots_count": 55
   },
   "posts_section": {
     "posts": [
@@ -172,7 +172,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 82,
+        "reach": 83,
         "views": 0,
         "likes": 10,
         "comments": 1,
@@ -402,8 +402,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 265,
-        "views": 342,
+        "reach": 267,
+        "views": 344,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -655,7 +655,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 414,
-        "views": 597,
+        "views": 598,
         "likes": 21,
         "comments": 0,
         "saved": 3,
@@ -688,8 +688,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6085,
-      "views_total": 7729,
+      "reach_total": 6088,
+      "views_total": 7732,
       "likes_total": 281,
       "comments_total": 9,
       "saves_total": 16,
@@ -758,21 +758,21 @@
         "hashtag": "#RabatMorocco",
         "uses": 1,
         "avg_reach": 414,
-        "avg_views": 597,
+        "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
         "avg_reach": 414,
-        "avg_views": 597,
+        "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
         "avg_reach": 414,
-        "avg_views": 597,
+        "avg_views": 598,
         "avg_likes": 21
       },
       {
@@ -877,21 +877,21 @@
         "hashtag": "#Morocco",
         "uses": 12,
         "avg_reach": 259,
-        "avg_views": 347,
+        "avg_views": 348,
         "avg_likes": 10
       },
       {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 265,
-        "avg_views": 342,
+        "avg_reach": 267,
+        "avg_views": 344,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 265,
-        "avg_views": 342,
+        "avg_reach": 267,
+        "avg_views": 344,
         "avg_likes": 5
       },
       {
@@ -961,7 +961,7 @@
         "hashtag": "#Rabat",
         "uses": 12,
         "avg_reach": 194,
-        "avg_views": 243,
+        "avg_views": 244,
         "avg_likes": 11
       },
       {
@@ -1030,8 +1030,8 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 179,
-        "avg_views": 209,
+        "avg_reach": 180,
+        "avg_views": 210,
         "avg_likes": 10
       },
       {
@@ -1156,7 +1156,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 82,
+        "avg_reach": 83,
         "avg_views": 0,
         "avg_likes": 10
       }
