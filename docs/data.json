@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T21:53:35.989115+00:00",
+  "generated_at": "2026-06-14T10:41:03.993977+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -145,9 +145,15 @@
         "followers": 50,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-14",
+        "followers": 50,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 53
+    "snapshots_count": 54
   },
   "posts_section": {
     "posts": [
@@ -166,7 +172,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 81,
+        "reach": 82,
         "views": 0,
         "likes": 10,
         "comments": 1,
@@ -258,7 +264,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 237,
+        "reach": 238,
         "views": 302,
         "likes": 10,
         "comments": 0,
@@ -396,8 +402,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 262,
-        "views": 340,
+        "reach": 265,
+        "views": 342,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -682,8 +688,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6080,
-      "views_total": 7727,
+      "reach_total": 6085,
+      "views_total": 7729,
       "likes_total": 281,
       "comments_total": 9,
       "saves_total": 16,
@@ -877,15 +883,15 @@
       {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 262,
-        "avg_views": 340,
+        "avg_reach": 265,
+        "avg_views": 342,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 262,
-        "avg_views": 340,
+        "avg_reach": 265,
+        "avg_views": 342,
         "avg_likes": 5
       },
       {
@@ -954,14 +960,14 @@
       {
         "hashtag": "#Rabat",
         "uses": 12,
-        "avg_reach": 193,
+        "avg_reach": 194,
         "avg_views": 243,
         "avg_likes": 11
       },
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 192,
+        "avg_reach": 193,
         "avg_views": 234,
         "avg_likes": 12
       },
@@ -989,7 +995,7 @@
       {
         "hashtag": "#MakanMood",
         "uses": 11,
-        "avg_reach": 186,
+        "avg_reach": 187,
         "avg_views": 227,
         "avg_likes": 11
       },
@@ -1024,7 +1030,7 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 178,
+        "avg_reach": 179,
         "avg_views": 209,
         "avg_likes": 10
       },
@@ -1150,7 +1156,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 81,
+        "avg_reach": 82,
         "avg_views": 0,
         "avg_likes": 10
       }
