@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T17:01:30.054075+00:00",
+  "generated_at": "2026-06-14T22:00:16.304777+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -7,10 +7,10 @@
     "name": "Makan Mood",
     "biography": "Food • Business • Culture • Lifestyle\nExplorer. Comprendre. Construire.\n↓ Découvrir le Maroc autrement",
     "website": "http://www.tiktok.com/@makanmoodjournal",
-    "followers": 50,
+    "followers": 51,
     "follows": 48,
     "media": 22,
-    "followers_delta_week": 0,
+    "followers_delta_week": 1,
     "follows_delta_week": 0,
     "media_delta_week": 2,
     "history": [
@@ -148,12 +148,12 @@
       },
       {
         "date": "2026-06-14",
-        "followers": 50,
+        "followers": 51,
         "follows": 48,
         "media": 22
       }
     ],
-    "snapshots_count": 55
+    "snapshots_count": 56
   },
   "posts_section": {
     "posts": [
@@ -172,13 +172,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 83,
+        "reach": 84,
         "views": 0,
-        "likes": 10,
-        "comments": 1,
+        "likes": 12,
+        "comments": 2,
         "saved": 0,
         "shares": 1,
-        "total_interactions": 13
+        "total_interactions": 16
       },
       {
         "media_id": "18161534590460682",
@@ -654,7 +654,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 414,
+        "reach": 415,
         "views": 598,
         "likes": 21,
         "comments": 0,
@@ -688,10 +688,10 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6088,
+      "reach_total": 6090,
       "views_total": 7732,
-      "likes_total": 281,
-      "comments_total": 9,
+      "likes_total": 283,
+      "comments_total": 10,
       "saves_total": 16,
       "shares_total": 31
     },
@@ -707,7 +707,7 @@
       "18121005160671650",
       "18170316739412330",
       "17922792477345910",
-      "18068683697368673"
+      "18079611362216235"
     ]
   },
   "hashtags_section": {
@@ -757,21 +757,21 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 414,
+        "avg_reach": 415,
         "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 414,
+        "avg_reach": 415,
         "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 414,
+        "avg_reach": 415,
         "avg_views": 598,
         "avg_likes": 21
       },
@@ -967,9 +967,9 @@
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 193,
+        "avg_reach": 194,
         "avg_views": 234,
-        "avg_likes": 12
+        "avg_likes": 13
       },
       {
         "hashtag": "#DimaMaghrib",
@@ -1079,7 +1079,7 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 94,
+        "avg_reach": 95,
         "avg_views": 95,
         "avg_likes": 8
       },
@@ -1156,9 +1156,9 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 83,
+        "avg_reach": 84,
         "avg_views": 0,
-        "avg_likes": 10
+        "avg_likes": 12
       }
     ]
   },
