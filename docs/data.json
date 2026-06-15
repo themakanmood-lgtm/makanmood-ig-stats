@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:00:16.304777+00:00",
+  "generated_at": "2026-06-15T18:08:14.158318+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -151,9 +151,15 @@
         "followers": 51,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-15",
+        "followers": 51,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 56
+    "snapshots_count": 57
   },
   "posts_section": {
     "posts": [
@@ -172,7 +178,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 84,
+        "reach": 85,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -471,8 +477,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 243,
-        "views": 312,
+        "reach": 245,
+        "views": 315,
         "likes": 9,
         "comments": 0,
         "saved": 2,
@@ -493,8 +499,8 @@
         ],
         "hashtag_count": 4,
         "mention_count": 0,
-        "reach": 231,
-        "views": 289,
+        "reach": 232,
+        "views": 290,
         "likes": 20,
         "comments": 0,
         "saved": 0,
@@ -654,7 +660,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 415,
+        "reach": 417,
         "views": 598,
         "likes": 21,
         "comments": 0,
@@ -688,8 +694,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6090,
-      "views_total": 7732,
+      "reach_total": 6096,
+      "views_total": 7736,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 16,
@@ -757,28 +763,28 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 415,
+        "avg_reach": 417,
         "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 415,
+        "avg_reach": 417,
         "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 415,
+        "avg_reach": 417,
         "avg_views": 598,
         "avg_likes": 21
       },
       {
         "hashtag": "#Maroc",
         "uses": 7,
-        "avg_reach": 438,
+        "avg_reach": 439,
         "avg_views": 555,
         "avg_likes": 16
       },
@@ -813,8 +819,8 @@
       {
         "hashtag": "#AidMubarak",
         "uses": 3,
-        "avg_reach": 378,
-        "avg_views": 484,
+        "avg_reach": 379,
+        "avg_views": 485,
         "avg_likes": 12
       },
       {
@@ -897,50 +903,50 @@
       {
         "hashtag": "#EidVibes",
         "uses": 1,
-        "avg_reach": 243,
-        "avg_views": 312,
+        "avg_reach": 245,
+        "avg_views": 315,
         "avg_likes": 9
       },
       {
         "hashtag": "#France",
         "uses": 1,
-        "avg_reach": 243,
-        "avg_views": 312,
+        "avg_reach": 245,
+        "avg_views": 315,
         "avg_likes": 9
       },
       {
         "hashtag": "#VieDeFamille",
         "uses": 1,
-        "avg_reach": 243,
-        "avg_views": 312,
+        "avg_reach": 245,
+        "avg_views": 315,
         "avg_likes": 9
       },
       {
         "hashtag": "#PourToi",
         "uses": 1,
-        "avg_reach": 243,
-        "avg_views": 312,
+        "avg_reach": 245,
+        "avg_views": 315,
         "avg_likes": 9
       },
       {
         "hashtag": "#Nature",
         "uses": 1,
-        "avg_reach": 231,
-        "avg_views": 289,
+        "avg_reach": 232,
+        "avg_views": 290,
         "avg_likes": 20
       },
       {
         "hashtag": "#Paysage",
         "uses": 1,
-        "avg_reach": 231,
-        "avg_views": 289,
+        "avg_reach": 232,
+        "avg_views": 290,
         "avg_likes": 20
       },
       {
         "hashtag": "#Voyage",
         "uses": 1,
-        "avg_reach": 231,
-        "avg_views": 289,
+        "avg_reach": 232,
+        "avg_views": 290,
         "avg_likes": 20
       },
       {
@@ -1156,7 +1162,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 84,
+        "avg_reach": 85,
         "avg_views": 0,
         "avg_likes": 12
       }
