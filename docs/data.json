@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T13:02:22.469427+00:00",
+  "generated_at": "2026-06-17T23:09:16.831637+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -171,7 +171,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 59
+    "snapshots_count": 60
   },
   "posts_section": {
     "posts": [
@@ -190,7 +190,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 86,
+        "reach": 88,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -282,8 +282,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 239,
-        "views": 305,
+        "reach": 241,
+        "views": 309,
         "likes": 10,
         "comments": 0,
         "saved": 1,
@@ -351,8 +351,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 184,
-        "views": 292,
+        "reach": 185,
+        "views": 293,
         "likes": 9,
         "comments": 0,
         "saved": 1,
@@ -420,7 +420,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 267,
+        "reach": 268,
         "views": 344,
         "likes": 5,
         "comments": 0,
@@ -489,8 +489,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 246,
-        "views": 316,
+        "reach": 247,
+        "views": 318,
         "likes": 9,
         "comments": 0,
         "saved": 2,
@@ -706,8 +706,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6109,
-      "views_total": 7758,
+      "reach_total": 6116,
+      "views_total": 7765,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -878,6 +878,13 @@
         "avg_likes": 17
       },
       {
+        "hashtag": "#Morocco",
+        "uses": 12,
+        "avg_reach": 260,
+        "avg_views": 349,
+        "avg_likes": 10
+      },
+      {
         "hashtag": "#Golf",
         "uses": 1,
         "avg_reach": 261,
@@ -892,59 +899,52 @@
         "avg_likes": 12
       },
       {
-        "hashtag": "#Morocco",
-        "uses": 12,
-        "avg_reach": 260,
-        "avg_views": 348,
-        "avg_likes": 10
-      },
-      {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 267,
+        "avg_reach": 268,
         "avg_views": 344,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 267,
+        "avg_reach": 268,
         "avg_views": 344,
         "avg_likes": 5
       },
       {
         "hashtag": "#EidVibes",
         "uses": 1,
-        "avg_reach": 246,
-        "avg_views": 316,
+        "avg_reach": 247,
+        "avg_views": 318,
         "avg_likes": 9
       },
       {
         "hashtag": "#France",
         "uses": 1,
-        "avg_reach": 246,
-        "avg_views": 316,
+        "avg_reach": 247,
+        "avg_views": 318,
         "avg_likes": 9
       },
       {
         "hashtag": "#VieDeFamille",
         "uses": 1,
-        "avg_reach": 246,
-        "avg_views": 316,
+        "avg_reach": 247,
+        "avg_views": 318,
         "avg_likes": 9
       },
       {
         "hashtag": "#PourToi",
         "uses": 1,
-        "avg_reach": 246,
-        "avg_views": 316,
+        "avg_reach": 247,
+        "avg_views": 318,
         "avg_likes": 9
       },
       {
         "hashtag": "#TastyCrousty",
         "uses": 1,
-        "avg_reach": 184,
-        "avg_views": 292,
+        "avg_reach": 185,
+        "avg_views": 293,
         "avg_likes": 9
       },
       {
@@ -971,22 +971,22 @@
       {
         "hashtag": "#Atay",
         "uses": 2,
-        "avg_reach": 188,
-        "avg_views": 248,
+        "avg_reach": 190,
+        "avg_views": 250,
         "avg_likes": 10
       },
       {
         "hashtag": "#Rabat",
         "uses": 12,
-        "avg_reach": 195,
+        "avg_reach": 196,
         "avg_views": 245,
         "avg_likes": 11
       },
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 195,
-        "avg_views": 235,
+        "avg_reach": 196,
+        "avg_views": 236,
         "avg_likes": 13
       },
       {
@@ -1027,7 +1027,7 @@
       {
         "hashtag": "#MakanMood",
         "uses": 11,
-        "avg_reach": 187,
+        "avg_reach": 188,
         "avg_views": 228,
         "avg_likes": 11
       },
@@ -1097,8 +1097,8 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 96,
-        "avg_views": 97,
+        "avg_reach": 97,
+        "avg_views": 98,
         "avg_likes": 8
       },
       {
@@ -1174,7 +1174,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 86,
+        "avg_reach": 88,
         "avg_views": 0,
         "avg_likes": 12
       }
