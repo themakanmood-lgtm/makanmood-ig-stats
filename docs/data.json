@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T23:09:16.831637+00:00",
+  "generated_at": "2026-06-18T12:33:03.516133+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -12,7 +12,7 @@
     "media": 22,
     "followers_delta_week": 1,
     "follows_delta_week": 0,
-    "media_delta_week": 1,
+    "media_delta_week": 0,
     "history": [
       {
         "date": "2026-05-23",
@@ -169,9 +169,15 @@
         "followers": 51,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-18",
+        "followers": 51,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 60
+    "snapshots_count": 61
   },
   "posts_section": {
     "posts": [
@@ -213,7 +219,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 18,
+        "reach": 19,
         "views": 0,
         "likes": 4,
         "comments": 0,
@@ -706,7 +712,7 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6116,
+      "reach_total": 6117,
       "views_total": 7765,
       "likes_total": 283,
       "comments_total": 10,
@@ -1167,7 +1173,7 @@
       {
         "hashtag": "#RestaurantRabat",
         "uses": 1,
-        "avg_reach": 18,
+        "avg_reach": 19,
         "avg_views": 0,
         "avg_likes": 4
       },
