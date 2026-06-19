@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T00:13:14.891067+00:00",
+  "generated_at": "2026-06-19T16:19:38.048872+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -183,7 +183,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 62
+    "snapshots_count": 63
   },
   "posts_section": {
     "posts": [
@@ -363,8 +363,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 185,
-        "views": 293,
+        "reach": 186,
+        "views": 295,
         "likes": 9,
         "comments": 0,
         "saved": 1,
@@ -661,8 +661,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 259,
-        "views": 400,
+        "reach": 260,
+        "views": 401,
         "likes": 17,
         "comments": 0,
         "saved": 0,
@@ -684,8 +684,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 419,
-        "views": 602,
+        "reach": 422,
+        "views": 605,
         "likes": 21,
         "comments": 0,
         "saved": 4,
@@ -707,7 +707,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 91,
+        "reach": 92,
         "views": 0,
         "likes": 15,
         "comments": 0,
@@ -718,8 +718,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6123,
-      "views_total": 7769,
+      "reach_total": 6129,
+      "views_total": 7775,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -787,22 +787,22 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 419,
-        "avg_views": 602,
+        "avg_reach": 422,
+        "avg_views": 605,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 419,
-        "avg_views": 602,
+        "avg_reach": 422,
+        "avg_views": 605,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 419,
-        "avg_views": 602,
+        "avg_reach": 422,
+        "avg_views": 605,
         "avg_likes": 21
       },
       {
@@ -878,15 +878,15 @@
       {
         "hashtag": "#RabatLife",
         "uses": 1,
-        "avg_reach": 259,
-        "avg_views": 400,
+        "avg_reach": 260,
+        "avg_views": 401,
         "avg_likes": 17
       },
       {
         "hashtag": "#StreetFood",
         "uses": 1,
-        "avg_reach": 259,
-        "avg_views": 400,
+        "avg_reach": 260,
+        "avg_views": 401,
         "avg_likes": 17
       },
       {
@@ -955,8 +955,8 @@
       {
         "hashtag": "#TastyCrousty",
         "uses": 1,
-        "avg_reach": 185,
-        "avg_views": 293,
+        "avg_reach": 186,
+        "avg_views": 295,
         "avg_likes": 9
       },
       {
@@ -991,14 +991,14 @@
         "hashtag": "#Rabat",
         "uses": 12,
         "avg_reach": 196,
-        "avg_views": 245,
+        "avg_views": 246,
         "avg_likes": 11
       },
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
         "avg_reach": 197,
-        "avg_views": 236,
+        "avg_views": 237,
         "avg_likes": 13
       },
       {
@@ -1060,8 +1060,8 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 181,
-        "avg_views": 212,
+        "avg_reach": 182,
+        "avg_views": 213,
         "avg_likes": 10
       },
       {
@@ -1165,14 +1165,14 @@
       {
         "hashtag": "#MoroccoEats",
         "uses": 1,
-        "avg_reach": 91,
+        "avg_reach": 92,
         "avg_views": 0,
         "avg_likes": 15
       },
       {
         "hashtag": "#HiddenGemsRabat",
         "uses": 1,
-        "avg_reach": 91,
+        "avg_reach": 92,
         "avg_views": 0,
         "avg_likes": 15
       },
