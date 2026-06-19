@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:19:38.048872+00:00",
+  "generated_at": "2026-06-19T21:53:26.322634+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -183,7 +183,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 63
+    "snapshots_count": 64
   },
   "posts_section": {
     "posts": [
@@ -523,8 +523,8 @@
         ],
         "hashtag_count": 4,
         "mention_count": 0,
-        "reach": 236,
-        "views": 292,
+        "reach": 237,
+        "views": 293,
         "likes": 20,
         "comments": 0,
         "saved": 0,
@@ -684,8 +684,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 422,
-        "views": 605,
+        "reach": 423,
+        "views": 608,
         "likes": 21,
         "comments": 0,
         "saved": 4,
@@ -718,8 +718,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6129,
-      "views_total": 7775,
+      "reach_total": 6131,
+      "views_total": 7779,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -787,28 +787,28 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 422,
-        "avg_views": 605,
+        "avg_reach": 423,
+        "avg_views": 608,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 422,
-        "avg_views": 605,
+        "avg_reach": 423,
+        "avg_views": 608,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 422,
-        "avg_views": 605,
+        "avg_reach": 423,
+        "avg_views": 608,
         "avg_likes": 21
       },
       {
         "hashtag": "#Maroc",
         "uses": 7,
-        "avg_reach": 439,
+        "avg_reach": 440,
         "avg_views": 556,
         "avg_likes": 16
       },
@@ -892,7 +892,7 @@
       {
         "hashtag": "#Morocco",
         "uses": 12,
-        "avg_reach": 260,
+        "avg_reach": 261,
         "avg_views": 349,
         "avg_likes": 10
       },
@@ -962,22 +962,22 @@
       {
         "hashtag": "#Nature",
         "uses": 1,
-        "avg_reach": 236,
-        "avg_views": 292,
+        "avg_reach": 237,
+        "avg_views": 293,
         "avg_likes": 20
       },
       {
         "hashtag": "#Paysage",
         "uses": 1,
-        "avg_reach": 236,
-        "avg_views": 292,
+        "avg_reach": 237,
+        "avg_views": 293,
         "avg_likes": 20
       },
       {
         "hashtag": "#Voyage",
         "uses": 1,
-        "avg_reach": 236,
-        "avg_views": 292,
+        "avg_reach": 237,
+        "avg_views": 293,
         "avg_likes": 20
       },
       {
