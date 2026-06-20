@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T17:09:01.023930+00:00",
+  "generated_at": "2026-06-20T21:56:55.146484+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -189,7 +189,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 66
+    "snapshots_count": 67
   },
   "posts_section": {
     "posts": [
@@ -690,8 +690,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 425,
-        "views": 612,
+        "reach": 426,
+        "views": 614,
         "likes": 21,
         "comments": 0,
         "saved": 4,
@@ -724,8 +724,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6135,
-      "views_total": 7784,
+      "reach_total": 6136,
+      "views_total": 7786,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -793,22 +793,22 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 425,
-        "avg_views": 612,
+        "avg_reach": 426,
+        "avg_views": 614,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 425,
-        "avg_views": 612,
+        "avg_reach": 426,
+        "avg_views": 614,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 425,
-        "avg_views": 612,
+        "avg_reach": 426,
+        "avg_views": 614,
         "avg_likes": 21
       },
       {
