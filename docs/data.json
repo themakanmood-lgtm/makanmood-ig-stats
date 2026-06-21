@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T17:12:13.208930+00:00",
+  "generated_at": "2026-06-21T22:22:49.652387+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -195,7 +195,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 69
+    "snapshots_count": 70
   },
   "posts_section": {
     "posts": [
@@ -214,7 +214,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 91,
+        "reach": 92,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -306,7 +306,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 242,
+        "reach": 243,
         "views": 311,
         "likes": 10,
         "comments": 0,
@@ -467,8 +467,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 291,
-        "views": 428,
+        "reach": 292,
+        "views": 430,
         "likes": 10,
         "comments": 0,
         "saved": 0,
@@ -730,8 +730,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6136,
-      "views_total": 7788,
+      "reach_total": 6139,
+      "views_total": 7790,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -856,21 +856,21 @@
         "hashtag": "#AidMubarak",
         "uses": 3,
         "avg_reach": 380,
-        "avg_views": 487,
+        "avg_views": 488,
         "avg_likes": 12
       },
       {
         "hashtag": "#Aid",
         "uses": 1,
-        "avg_reach": 291,
-        "avg_views": 428,
+        "avg_reach": 292,
+        "avg_views": 430,
         "avg_likes": 10
       },
       {
         "hashtag": "#EidAlAdha",
         "uses": 1,
-        "avg_reach": 291,
-        "avg_views": 428,
+        "avg_reach": 292,
+        "avg_views": 430,
         "avg_likes": 10
       },
       {
@@ -1037,7 +1037,7 @@
       {
         "hashtag": "#MakanMood",
         "uses": 11,
-        "avg_reach": 188,
+        "avg_reach": 189,
         "avg_views": 229,
         "avg_likes": 11
       },
@@ -1198,7 +1198,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 91,
+        "avg_reach": 92,
         "avg_views": 0,
         "avg_likes": 12
       }
