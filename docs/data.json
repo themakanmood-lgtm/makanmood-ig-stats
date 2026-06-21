@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T11:33:44.370862+00:00",
+  "generated_at": "2026-06-21T17:12:13.208930+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -195,7 +195,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 68
+    "snapshots_count": 69
   },
   "posts_section": {
     "posts": [
@@ -307,7 +307,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 242,
-        "views": 310,
+        "views": 311,
         "likes": 10,
         "comments": 0,
         "saved": 1,
@@ -731,7 +731,7 @@
     "totals": {
       "count": 23,
       "reach_total": 6136,
-      "views_total": 7787,
+      "views_total": 7788,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -996,7 +996,7 @@
         "hashtag": "#Atay",
         "uses": 2,
         "avg_reach": 190,
-        "avg_views": 251,
+        "avg_views": 252,
         "avg_likes": 10
       },
       {
