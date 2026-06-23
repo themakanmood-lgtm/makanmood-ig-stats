@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T14:15:54.674449+00:00",
+  "generated_at": "2026-06-23T19:46:48.573890+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -7,10 +7,10 @@
     "name": "Makan Mood",
     "biography": "Food • Business • Culture • Lifestyle\nExplorer. Comprendre. Construire.\n↓ Découvrir le Maroc autrement",
     "website": "http://www.tiktok.com/@makanmoodjournal",
-    "followers": 52,
+    "followers": 51,
     "follows": 48,
     "media": 22,
-    "followers_delta_week": 1,
+    "followers_delta_week": 0,
     "follows_delta_week": 0,
     "media_delta_week": 0,
     "history": [
@@ -202,12 +202,12 @@
       },
       {
         "date": "2026-06-23",
-        "followers": 52,
+        "followers": 51,
         "follows": 48,
         "media": 22
       }
     ],
-    "snapshots_count": 75
+    "snapshots_count": 76
   },
   "posts_section": {
     "posts": [
@@ -709,7 +709,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 426,
-        "views": 615,
+        "views": 618,
         "likes": 21,
         "comments": 0,
         "saved": 4,
@@ -743,7 +743,7 @@
     "totals": {
       "count": 23,
       "reach_total": 6143,
-      "views_total": 7791,
+      "views_total": 7794,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -812,21 +812,21 @@
         "hashtag": "#RabatMorocco",
         "uses": 1,
         "avg_reach": 426,
-        "avg_views": 615,
+        "avg_views": 618,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
         "avg_reach": 426,
-        "avg_views": 615,
+        "avg_views": 618,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
         "avg_reach": 426,
-        "avg_views": 615,
+        "avg_views": 618,
         "avg_likes": 21
       },
       {
@@ -917,7 +917,7 @@
         "hashtag": "#Morocco",
         "uses": 12,
         "avg_reach": 261,
-        "avg_views": 350,
+        "avg_views": 351,
         "avg_likes": 10
       },
       {
