@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T20:29:00.770441+00:00",
+  "generated_at": "2026-06-23T01:55:45.932446+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -199,9 +199,15 @@
         "followers": 52,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-23",
+        "followers": 52,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 72
+    "snapshots_count": 73
   },
   "posts_section": {
     "posts": [
@@ -541,8 +547,8 @@
         ],
         "hashtag_count": 4,
         "mention_count": 0,
-        "reach": 237,
-        "views": 293,
+        "reach": 238,
+        "views": 294,
         "likes": 20,
         "comments": 0,
         "saved": 0,
@@ -736,8 +742,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6140,
-      "views_total": 7790,
+      "reach_total": 6141,
+      "views_total": 7791,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -827,7 +833,7 @@
         "hashtag": "#Maroc",
         "uses": 7,
         "avg_reach": 440,
-        "avg_views": 556,
+        "avg_views": 557,
         "avg_likes": 16
       },
       {
@@ -980,22 +986,22 @@
       {
         "hashtag": "#Nature",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 293,
+        "avg_reach": 238,
+        "avg_views": 294,
         "avg_likes": 20
       },
       {
         "hashtag": "#Paysage",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 293,
+        "avg_reach": 238,
+        "avg_views": 294,
         "avg_likes": 20
       },
       {
         "hashtag": "#Voyage",
         "uses": 1,
-        "avg_reach": 237,
-        "avg_views": 293,
+        "avg_reach": 238,
+        "avg_views": 294,
         "avg_likes": 20
       },
       {
