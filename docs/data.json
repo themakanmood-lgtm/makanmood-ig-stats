@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T19:46:48.573890+00:00",
+  "generated_at": "2026-06-24T01:54:48.561673+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -205,9 +205,15 @@
         "followers": 51,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-24",
+        "followers": 51,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 76
+    "snapshots_count": 77
   },
   "posts_section": {
     "posts": [
@@ -547,8 +553,8 @@
         ],
         "hashtag_count": 4,
         "mention_count": 0,
-        "reach": 239,
-        "views": 294,
+        "reach": 240,
+        "views": 295,
         "likes": 20,
         "comments": 0,
         "saved": 0,
@@ -742,8 +748,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6143,
-      "views_total": 7794,
+      "reach_total": 6144,
+      "views_total": 7795,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -977,32 +983,32 @@
         "avg_likes": 9
       },
       {
-        "hashtag": "#TastyCrousty",
-        "uses": 1,
-        "avg_reach": 186,
-        "avg_views": 295,
-        "avg_likes": 9
-      },
-      {
         "hashtag": "#Nature",
         "uses": 1,
-        "avg_reach": 239,
-        "avg_views": 294,
+        "avg_reach": 240,
+        "avg_views": 295,
         "avg_likes": 20
       },
       {
         "hashtag": "#Paysage",
         "uses": 1,
-        "avg_reach": 239,
-        "avg_views": 294,
+        "avg_reach": 240,
+        "avg_views": 295,
         "avg_likes": 20
       },
       {
         "hashtag": "#Voyage",
         "uses": 1,
-        "avg_reach": 239,
-        "avg_views": 294,
+        "avg_reach": 240,
+        "avg_views": 295,
         "avg_likes": 20
+      },
+      {
+        "hashtag": "#TastyCrousty",
+        "uses": 1,
+        "avg_reach": 186,
+        "avg_views": 295,
+        "avg_likes": 9
       },
       {
         "hashtag": "#Atay",
