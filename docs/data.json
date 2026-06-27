@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:26:16.227746+00:00",
+  "generated_at": "2026-06-27T01:53:49.790446+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -223,9 +223,15 @@
         "followers": 51,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-06-27",
+        "followers": 51,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 88
+    "snapshots_count": 89
   },
   "posts_section": {
     "posts": [
@@ -588,13 +594,13 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 0,
-        "views": 0,
-        "likes": 0,
+        "reach": 138,
+        "views": 192,
+        "likes": 9,
         "comments": 0,
         "saved": 0,
         "shares": 0,
-        "total_interactions": 0
+        "total_interactions": 10
       },
       {
         "media_id": "18099292315895012",
@@ -760,9 +766,9 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6009,
-      "views_total": 7604,
-      "likes_total": 274,
+      "reach_total": 6147,
+      "views_total": 7796,
+      "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
       "shares_total": 32
@@ -932,6 +938,13 @@
         "avg_likes": 17
       },
       {
+        "hashtag": "#Morocco",
+        "uses": 12,
+        "avg_reach": 261,
+        "avg_views": 351,
+        "avg_likes": 10
+      },
+      {
         "hashtag": "#Golf",
         "uses": 1,
         "avg_reach": 261,
@@ -958,13 +971,6 @@
         "avg_reach": 268,
         "avg_views": 344,
         "avg_likes": 5
-      },
-      {
-        "hashtag": "#Morocco",
-        "uses": 12,
-        "avg_reach": 250,
-        "avg_views": 335,
-        "avg_likes": 10
       },
       {
         "hashtag": "#EidVibes",
@@ -1021,6 +1027,13 @@
         "avg_reach": 186,
         "avg_views": 295,
         "avg_likes": 9
+      },
+      {
+        "hashtag": "#Atay",
+        "uses": 2,
+        "avg_reach": 190,
+        "avg_views": 252,
+        "avg_likes": 10
       },
       {
         "hashtag": "#Rabat",
@@ -1114,18 +1127,32 @@
         "avg_likes": 7
       },
       {
+        "hashtag": "#MarocainsDuMonde",
+        "uses": 1,
+        "avg_reach": 138,
+        "avg_views": 192,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#Darija",
+        "uses": 1,
+        "avg_reach": 138,
+        "avg_views": 192,
+        "avg_likes": 9
+      },
+      {
+        "hashtag": "#ReelsFrance",
+        "uses": 1,
+        "avg_reach": 138,
+        "avg_views": 192,
+        "avg_likes": 9
+      },
+      {
         "hashtag": "#maroc",
         "uses": 2,
         "avg_reach": 128,
         "avg_views": 160,
         "avg_likes": 10
-      },
-      {
-        "hashtag": "#Atay",
-        "uses": 2,
-        "avg_reach": 122,
-        "avg_views": 156,
-        "avg_likes": 5
       },
       {
         "hashtag": "#MoroccoFood",
@@ -1196,27 +1223,6 @@
         "avg_reach": 92,
         "avg_views": 0,
         "avg_likes": 15
-      },
-      {
-        "hashtag": "#MarocainsDuMonde",
-        "uses": 1,
-        "avg_reach": 0,
-        "avg_views": 0,
-        "avg_likes": 0
-      },
-      {
-        "hashtag": "#Darija",
-        "uses": 1,
-        "avg_reach": 0,
-        "avg_views": 0,
-        "avg_likes": 0
-      },
-      {
-        "hashtag": "#ReelsFrance",
-        "uses": 1,
-        "avg_reach": 0,
-        "avg_views": 0,
-        "avg_likes": 0
       },
       {
         "hashtag": "#RestaurantRabat",
