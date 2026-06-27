@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T13:02:53.875986+00:00",
+  "generated_at": "2026-06-27T18:59:37.505415+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -231,7 +231,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 91
+    "snapshots_count": 92
   },
   "posts_section": {
     "posts": [
@@ -296,8 +296,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 270,
-        "views": 402,
+        "reach": 271,
+        "views": 404,
         "likes": 10,
         "comments": 2,
         "saved": 0,
@@ -617,7 +617,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 261,
+        "reach": 262,
         "views": 349,
         "likes": 12,
         "comments": 0,
@@ -766,8 +766,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6147,
-      "views_total": 7796,
+      "reach_total": 6149,
+      "views_total": 7798,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -912,15 +912,15 @@
       {
         "hashtag": "#MRE",
         "uses": 1,
-        "avg_reach": 270,
-        "avg_views": 402,
+        "avg_reach": 271,
+        "avg_views": 404,
         "avg_likes": 10
       },
       {
         "hashtag": "#ExpatMaroc",
         "uses": 1,
-        "avg_reach": 270,
-        "avg_views": 402,
+        "avg_reach": 271,
+        "avg_views": 404,
         "avg_likes": 10
       },
       {
@@ -940,21 +940,21 @@
       {
         "hashtag": "#Morocco",
         "uses": 12,
-        "avg_reach": 261,
+        "avg_reach": 262,
         "avg_views": 351,
         "avg_likes": 10
       },
       {
         "hashtag": "#Golf",
         "uses": 1,
-        "avg_reach": 261,
+        "avg_reach": 262,
         "avg_views": 349,
         "avg_likes": 12
       },
       {
         "hashtag": "#TropheeHassanII",
         "uses": 1,
-        "avg_reach": 261,
+        "avg_reach": 262,
         "avg_views": 349,
         "avg_likes": 12
       },
