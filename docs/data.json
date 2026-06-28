@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:37:43.672404+00:00",
+  "generated_at": "2026-06-28T13:08:19.334629+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -237,7 +237,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 94
+    "snapshots_count": 95
   },
   "posts_section": {
     "posts": [
@@ -715,7 +715,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 260,
+        "reach": 261,
         "views": 401,
         "likes": 17,
         "comments": 0,
@@ -772,7 +772,7 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6150,
+      "reach_total": 6151,
       "views_total": 7798,
       "likes_total": 283,
       "comments_total": 10,
@@ -932,14 +932,14 @@
       {
         "hashtag": "#RabatLife",
         "uses": 1,
-        "avg_reach": 260,
+        "avg_reach": 261,
         "avg_views": 401,
         "avg_likes": 17
       },
       {
         "hashtag": "#StreetFood",
         "uses": 1,
-        "avg_reach": 260,
+        "avg_reach": 261,
         "avg_views": 401,
         "avg_likes": 17
       },
@@ -1044,7 +1044,7 @@
       {
         "hashtag": "#Rabat",
         "uses": 12,
-        "avg_reach": 197,
+        "avg_reach": 198,
         "avg_views": 247,
         "avg_likes": 11
       },
