@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T01:28:46.952587+00:00",
+  "generated_at": "2026-07-03T08:43:30.113488+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -267,7 +267,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 112
+    "snapshots_count": 113
   },
   "posts_section": {
     "posts": [
@@ -585,8 +585,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 250,
-        "views": 320,
+        "reach": 251,
+        "views": 321,
         "likes": 9,
         "comments": 0,
         "saved": 2,
@@ -802,8 +802,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6162,
-      "views_total": 7805,
+      "reach_total": 6163,
+      "views_total": 7806,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -928,7 +928,7 @@
         "hashtag": "#AidMubarak",
         "uses": 3,
         "avg_reach": 381,
-        "avg_views": 488,
+        "avg_views": 489,
         "avg_likes": 12
       },
       {
@@ -1011,29 +1011,29 @@
       {
         "hashtag": "#EidVibes",
         "uses": 1,
-        "avg_reach": 250,
-        "avg_views": 320,
+        "avg_reach": 251,
+        "avg_views": 321,
         "avg_likes": 9
       },
       {
         "hashtag": "#France",
         "uses": 1,
-        "avg_reach": 250,
-        "avg_views": 320,
+        "avg_reach": 251,
+        "avg_views": 321,
         "avg_likes": 9
       },
       {
         "hashtag": "#VieDeFamille",
         "uses": 1,
-        "avg_reach": 250,
-        "avg_views": 320,
+        "avg_reach": 251,
+        "avg_views": 321,
         "avg_likes": 9
       },
       {
         "hashtag": "#PourToi",
         "uses": 1,
-        "avg_reach": 250,
-        "avg_views": 320,
+        "avg_reach": 251,
+        "avg_views": 321,
         "avg_likes": 9
       },
       {
