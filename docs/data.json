@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T18:57:19.338761+00:00",
+  "generated_at": "2026-07-04T01:28:19.290307+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -265,9 +265,15 @@
         "followers": 51,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-07-04",
+        "followers": 51,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 115
+    "snapshots_count": 116
   },
   "posts_section": {
     "posts": [
