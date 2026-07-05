@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T18:50:03.026047+00:00",
+  "generated_at": "2026-07-05T01:43:27.021490+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -271,9 +271,15 @@
         "followers": 51,
         "follows": 48,
         "media": 22
+      },
+      {
+        "date": "2026-07-05",
+        "followers": 51,
+        "follows": 48,
+        "media": 22
       }
     ],
-    "snapshots_count": 119
+    "snapshots_count": 120
   },
   "posts_section": {
     "posts": [
@@ -453,8 +459,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 187,
-        "views": 297,
+        "reach": 188,
+        "views": 299,
         "likes": 9,
         "comments": 0,
         "saved": 1,
@@ -808,8 +814,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6164,
-      "views_total": 7807,
+      "reach_total": 6165,
+      "views_total": 7809,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -1045,8 +1051,8 @@
       {
         "hashtag": "#TastyCrousty",
         "uses": 1,
-        "avg_reach": 187,
-        "avg_views": 297,
+        "avg_reach": 188,
+        "avg_views": 299,
         "avg_likes": 9
       },
       {
@@ -1137,7 +1143,7 @@
         "hashtag": "#RabatFood",
         "uses": 3,
         "avg_reach": 183,
-        "avg_views": 214,
+        "avg_views": 215,
         "avg_likes": 10
       },
       {
@@ -1199,8 +1205,8 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 100,
-        "avg_views": 99,
+        "avg_reach": 101,
+        "avg_views": 100,
         "avg_likes": 8
       },
       {
