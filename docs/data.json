@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:01:28.421788+00:00",
+  "generated_at": "2026-07-05T18:55:32.394436+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -279,7 +279,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 122
+    "snapshots_count": 123
   },
   "posts_section": {
     "posts": [
@@ -528,8 +528,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 1,
-        "reach": 270,
-        "views": 345,
+        "reach": 271,
+        "views": 346,
         "likes": 5,
         "comments": 0,
         "saved": 1,
@@ -814,8 +814,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6169,
-      "views_total": 7810,
+      "reach_total": 6170,
+      "views_total": 7811,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -1009,15 +1009,15 @@
       {
         "hashtag": "#Sushi",
         "uses": 1,
-        "avg_reach": 270,
-        "avg_views": 345,
+        "avg_reach": 271,
+        "avg_views": 346,
         "avg_likes": 5
       },
       {
         "hashtag": "#Restaurant",
         "uses": 1,
-        "avg_reach": 270,
-        "avg_views": 345,
+        "avg_reach": 271,
+        "avg_views": 346,
         "avg_likes": 5
       },
       {
@@ -1142,7 +1142,7 @@
       {
         "hashtag": "#RabatFood",
         "uses": 3,
-        "avg_reach": 183,
+        "avg_reach": 184,
         "avg_views": 215,
         "avg_likes": 10
       },
