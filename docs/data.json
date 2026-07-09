@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T08:59:57.367825+00:00",
+  "generated_at": "2026-07-09T14:22:59.027753+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -7,10 +7,10 @@
     "name": "Makan Mood",
     "biography": "Food • Business • Culture • Lifestyle\nExplorer. Comprendre. Construire.\n↓ Découvrir le Maroc autrement",
     "website": "http://www.tiktok.com/@makanmoodjournal",
-    "followers": 51,
+    "followers": 50,
     "follows": 48,
     "media": 22,
-    "followers_delta_week": 0,
+    "followers_delta_week": -1,
     "follows_delta_week": 0,
     "media_delta_week": 0,
     "history": [
@@ -298,12 +298,12 @@
       },
       {
         "date": "2026-07-09",
-        "followers": 51,
+        "followers": 50,
         "follows": 48,
         "media": 22
       }
     ],
-    "snapshots_count": 137
+    "snapshots_count": 138
   },
   "posts_section": {
     "posts": [
