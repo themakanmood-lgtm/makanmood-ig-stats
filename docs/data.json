@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T13:49:53.621982+00:00",
+  "generated_at": "2026-07-10T19:12:12.901849+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -309,7 +309,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 142
+    "snapshots_count": 143
   },
   "posts_section": {
     "posts": [
@@ -490,7 +490,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 191,
-        "views": 306,
+        "views": 307,
         "likes": 9,
         "comments": 0,
         "saved": 1,
@@ -845,7 +845,7 @@
     "totals": {
       "count": 23,
       "reach_total": 6194,
-      "views_total": 7842,
+      "views_total": 7843,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -1082,7 +1082,7 @@
         "hashtag": "#TastyCrousty",
         "uses": 1,
         "avg_reach": 191,
-        "avg_views": 306,
+        "avg_views": 307,
         "avg_likes": 9
       },
       {
@@ -1117,7 +1117,7 @@
         "hashtag": "#Rabat",
         "uses": 12,
         "avg_reach": 200,
-        "avg_views": 249,
+        "avg_views": 250,
         "avg_likes": 11
       },
       {
