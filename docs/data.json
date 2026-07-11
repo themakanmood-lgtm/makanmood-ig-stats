@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T12:45:26.493100+00:00",
+  "generated_at": "2026-07-11T18:40:49.495378+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -315,7 +315,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 146
+    "snapshots_count": 147
   },
   "posts_section": {
     "posts": [
@@ -334,7 +334,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 101,
+        "reach": 102,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -850,7 +850,7 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6198,
+      "reach_total": 6199,
       "views_total": 7844,
       "likes_total": 283,
       "comments_total": 10,
@@ -1122,7 +1122,7 @@
       {
         "hashtag": "#Rabat",
         "uses": 12,
-        "avg_reach": 200,
+        "avg_reach": 201,
         "avg_views": 250,
         "avg_likes": 11
       },
@@ -1318,7 +1318,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 101,
+        "avg_reach": 102,
         "avg_views": 0,
         "avg_likes": 12
       }
