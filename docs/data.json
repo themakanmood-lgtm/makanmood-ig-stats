@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:29:02.554769+00:00",
+  "generated_at": "2026-07-11T12:45:26.493100+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -315,7 +315,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 145
+    "snapshots_count": 146
   },
   "posts_section": {
     "posts": [
@@ -426,7 +426,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 249,
+        "reach": 250,
         "views": 313,
         "likes": 10,
         "comments": 0,
@@ -850,7 +850,7 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6197,
+      "reach_total": 6198,
       "views_total": 7844,
       "likes_total": 283,
       "comments_total": 10,
