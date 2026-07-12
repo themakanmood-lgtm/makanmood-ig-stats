@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T07:54:04.894320+00:00",
+  "generated_at": "2026-07-12T12:46:47.259129+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -321,7 +321,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 149
+    "snapshots_count": 150
   },
   "posts_section": {
     "posts": [
@@ -685,7 +685,7 @@
         "hashtag_count": 5,
         "mention_count": 0,
         "reach": 139,
-        "views": 193,
+        "views": 194,
         "likes": 9,
         "comments": 0,
         "saved": 0,
@@ -857,7 +857,7 @@
     "totals": {
       "count": 23,
       "reach_total": 6205,
-      "views_total": 7847,
+      "views_total": 7848,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -1031,7 +1031,7 @@
         "hashtag": "#Morocco",
         "uses": 12,
         "avg_reach": 264,
-        "avg_views": 352,
+        "avg_views": 353,
         "avg_likes": 10
       },
       {
@@ -1122,7 +1122,7 @@
         "hashtag": "#Atay",
         "uses": 2,
         "avg_reach": 196,
-        "avg_views": 253,
+        "avg_views": 254,
         "avg_likes": 10
       },
       {
@@ -1220,21 +1220,21 @@
         "hashtag": "#MarocainsDuMonde",
         "uses": 1,
         "avg_reach": 139,
-        "avg_views": 193,
+        "avg_views": 194,
         "avg_likes": 9
       },
       {
         "hashtag": "#Darija",
         "uses": 1,
         "avg_reach": 139,
-        "avg_views": 193,
+        "avg_views": 194,
         "avg_likes": 9
       },
       {
         "hashtag": "#ReelsFrance",
         "uses": 1,
         "avg_reach": 139,
-        "avg_views": 193,
+        "avg_views": 194,
         "avg_likes": 9
       },
       {
