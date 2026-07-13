@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:55:20.256061+00:00",
+  "generated_at": "2026-07-13T19:08:47.102811+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -327,7 +327,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 154
+    "snapshots_count": 155
   },
   "posts_section": {
     "posts": [
@@ -346,7 +346,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 106,
+        "reach": 107,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -438,8 +438,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 254,
-        "views": 314,
+        "reach": 255,
+        "views": 316,
         "likes": 10,
         "comments": 0,
         "saved": 1,
@@ -862,8 +862,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6227,
-      "views_total": 7872,
+      "reach_total": 6229,
+      "views_total": 7874,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -1127,7 +1127,7 @@
       {
         "hashtag": "#Atay",
         "uses": 2,
-        "avg_reach": 197,
+        "avg_reach": 198,
         "avg_views": 256,
         "avg_likes": 10
       },
@@ -1141,7 +1141,7 @@
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 207,
+        "avg_reach": 208,
         "avg_views": 239,
         "avg_likes": 13
       },
@@ -1253,7 +1253,7 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 106,
+        "avg_reach": 107,
         "avg_views": 104,
         "avg_likes": 8
       },
@@ -1330,7 +1330,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 106,
+        "avg_reach": 107,
         "avg_views": 0,
         "avg_likes": 12
       }
