@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:46:12.036473+00:00",
+  "generated_at": "2026-07-15T13:03:09.108868+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -339,7 +339,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 161
+    "snapshots_count": 162
   },
   "posts_section": {
     "posts": [
@@ -358,7 +358,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 107,
+        "reach": 108,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -840,8 +840,8 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 439,
-        "views": 633,
+        "reach": 440,
+        "views": 634,
         "likes": 21,
         "comments": 0,
         "saved": 4,
@@ -874,8 +874,8 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6240,
-      "views_total": 7889,
+      "reach_total": 6242,
+      "views_total": 7890,
       "likes_total": 283,
       "comments_total": 10,
       "saves_total": 17,
@@ -943,22 +943,22 @@
       {
         "hashtag": "#RabatMorocco",
         "uses": 1,
-        "avg_reach": 439,
-        "avg_views": 633,
+        "avg_reach": 440,
+        "avg_views": 634,
         "avg_likes": 21
       },
       {
         "hashtag": "#VisitRabat",
         "uses": 1,
-        "avg_reach": 439,
-        "avg_views": 633,
+        "avg_reach": 440,
+        "avg_views": 634,
         "avg_likes": 21
       },
       {
         "hashtag": "#MoroccoTravel",
         "uses": 1,
-        "avg_reach": 439,
-        "avg_views": 633,
+        "avg_reach": 440,
+        "avg_views": 634,
         "avg_likes": 21
       },
       {
@@ -1048,7 +1048,7 @@
       {
         "hashtag": "#Morocco",
         "uses": 12,
-        "avg_reach": 265,
+        "avg_reach": 266,
         "avg_views": 355,
         "avg_likes": 10
       },
@@ -1153,7 +1153,7 @@
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 208,
+        "avg_reach": 209,
         "avg_views": 240,
         "avg_likes": 13
       },
@@ -1265,7 +1265,7 @@
       {
         "hashtag": "#MoroccoFood",
         "uses": 3,
-        "avg_reach": 107,
+        "avg_reach": 108,
         "avg_views": 106,
         "avg_likes": 8
       },
@@ -1342,7 +1342,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 107,
+        "avg_reach": 108,
         "avg_views": 0,
         "avg_likes": 12
       }
