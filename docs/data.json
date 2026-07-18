@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:23:10.148143+00:00",
+  "generated_at": "2026-07-18T12:43:13.805774+00:00",
   "schema_version": 1,
   "brand": "Makan Mood",
   "account": {
@@ -357,7 +357,7 @@
         "media": 22
       }
     ],
-    "snapshots_count": 173
+    "snapshots_count": 174
   },
   "posts_section": {
     "posts": [
@@ -376,7 +376,7 @@
         ],
         "hashtag_count": 5,
         "mention_count": 0,
-        "reach": 111,
+        "reach": 113,
         "views": 0,
         "likes": 12,
         "comments": 2,
@@ -892,7 +892,7 @@
     ],
     "totals": {
       "count": 23,
-      "reach_total": 6249,
+      "reach_total": 6251,
       "views_total": 7902,
       "likes_total": 283,
       "comments_total": 10,
@@ -1171,7 +1171,7 @@
       {
         "hashtag": "#MoroccoLife",
         "uses": 3,
-        "avg_reach": 210,
+        "avg_reach": 211,
         "avg_views": 241,
         "avg_likes": 13
       },
@@ -1360,7 +1360,7 @@
       {
         "hashtag": "#DarNaji",
         "uses": 1,
-        "avg_reach": 111,
+        "avg_reach": 113,
         "avg_views": 0,
         "avg_likes": 12
       }
